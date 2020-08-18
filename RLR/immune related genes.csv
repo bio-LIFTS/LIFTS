@@ -1,0 +1,771 @@
+Gene Name,CD Name,Common Name,NS Probe ID,Gene Class,Cell Type,IR Type,Immune Response Category,Annotation,Synonyms / Previous Symbols
+A2M,,A2M,NM_000014.4:1685,Immune Response,,I,Chemokines,"Chemokines and receptors, Innate immune response","FWP007, S863-7, CPAMD5"
+ABCB1,CD243,ABCB1,NM_000927.3:3910,Immune Response,,,,CD molecules,"PGY1, MDR1, CLCS, P-gp, CD243, GP170, ABC20"
+ABCF1,,ABCF1,NM_001090.2:850,HK,,,,,"ABC50, EST123147"
+ABL1,,ABL,NM_005157.3:3200,Immune Response,,,"Cell Cycle, Regulation, Senescence","Regulation of cell cycle, S phase and DNA replication, Senescence initiators","ABL, JTK7, c-ABL, p150"
+ADA,,ADA,NM_000022.2:1300,Immune Response,,,"B-Cell Functions, T-Cell Functions","B-cell activation, B-cell differentiation, T-cell differentiation",
+ADORA2A,,ADORA2A,NM_000675.3:1095,Immune Response - Checkpoint,,,Cell Functions,Basic cell functions,"ADORA2, RDC8"
+AGK,,AGK,NM_018238.3:816,HK,,,,,"MULK, FLJ10842"
+AICDA,,AICDA,NM_020661.1:567,Immune Response,,,T-Cell Functions,B-cell differentiation,"HIGM2, CDA2, ARP2, AID"
+AIRE,,APECED,NM_000383.2:1864,Immune Response,,H,,Humoral immune response,"APECED, PGA1, APS1"
+AKT3,,AKT3,NM_181690.1:755,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific","PKBG, RAC-gamma, PRKBG"
+ALAS1,,ALAS,NM_000688.4:1615,HK,,,,,"ALAS3, ALAS"
+ALCAM,CD166,CD166,NM_001627.3:789,Immune Response,,A,Adhesion,"Adaptive immune response, Adhesion, CD molecules","CD166, MEMD"
+AMBP,,AMBP,NM_001633.3:597,Immune Response,,,Regulation,Negative regulation of immune response,"ITI, ITIL, UTI, HCP, EDC1, HI30, IATIL, ITILC"
+AMICA1,,AMICA1,NM_153206.2:620,Immune Response,,,Regulation,Regulation of immune response,"Gm638, AMICA"
+AMMECR1L,,AMMECR1L,NM_001199140.1:3564,HK,,,,,MGC4268
+ANP32B,,APRIL,NM_006401.2:660,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific","SSP29, PHAPI2, APRIL"
+ANXA1,,ANXA1,NM_000700.1:515,Immune Response,,,Transporter Functions,Phagocytosis recognition and engulfment,"ANX1, LPC1"
+APOE,,APOE,NM_000041.2:96,Immune Response - Cell Type specific,,,Transporter Functions,"Cell Type specific, Lipid transporter activity",AD2
+APP,,APP,NM_000484.3:1725,Immune Response,,I,,Innate immune response,AD1
+ARG1,,ARG1,NM_000045.2:505,Immune Response,,,,Response to drug,
+ARG2,,ARG2,NM_001172.3:1150,Immune Response,,,,Response to drug,
+ATF1,,ATF1,NM_005171.2:710,Immune Response,,I,,Innate immune response,TREB36
+ATF2,,ATF2,NM_001256090.1:336,Immune Response,,I,,Innate immune response,"CREB2, TREB7, CRE-BP1, HB16"
+ATG10,,ATG10,NM_001131028.1:985,Immune Response,,,Transporter Functions,Genes responsible for protein transport,"APG10L, DKFZP586I0418, FLJ13954"
+ATG12,,ATG12,NM_004707.2:25,Immune Response,,I,,Innate immune response,"APG12L, APG12"
+ATG16L1,,ATG16L1,NM_198890.2:1975,Immune Response,,,Transporter Functions,"Autophagic vacuole formation, Genes responsible for protein transport","APG16L, ATG16L, WDR30, FLJ10035, ATG16A"
+ATG5,,ATG5,NM_004849.2:1104,Immune Response,,I,,Innate immune response,"APG5L, ASP, APG5, hAPG5"
+ATG7,,ATG7,NM_001136031.2:810,Immune Response,,,Transporter Functions,"Genes responsible for protein transport, Protein ubiquitination","APG7L, GSA7, DKFZp434N0735"
+ATM,,ATM,NM_000051.3:30,Immune Response - Cell Type specific,,,Cell Cycle,"Cell Type specific, DNA damage checkpoint, Induction of apoptosis","ATA, ATDC, ATC, ATD, TEL1, TELO1"
+AXL,,AXL,NM_021913.2:2190,Immune Response,,I,,Innate immune response,"UFO, JTK11"
+BAGE,,BAGE,NM_001187.1:399,CT Antigen,,,,,"CT2.1, BAGE1"
+BATF,,BATF,NM_006399.3:293,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific","B-ATF, SFA-2, BATF1"
+BAX,,BAX,NM_138761.3:342,Immune Response,,,"Cell Cycle, Regulation",Co-Regulators of autophagy and apoptosis/cell cycle,BCL2L4
+BCL10,,BCL10,NM_003921.2:1250,Immune Response,,A;I,,"Adaptive immune response, Innate immune response","CARMEN, CIPER, mE10, c-E10, CLAP"
+BCL2,,BCL2,NM_000657.2:947,Immune Response - Cell Type specific,,,Cell Cycle,"Cell Type specific, G1/S transition of mitotic cell cycle","Bcl-2, PPP1R50"
+BCL2L1,,Bcl-X,NM_001191.2:260,Immune Response,,I,,Innate immune response,"BCLX, BCL2L, Bcl-X, bcl-xL, bcl-xS, PPP1R52"
+BCL6,,BCL6,NM_001706.2:675,Immune Response - Cell Type specific,,,Regulation,"Cell Type specific, Regulation of immune response","ZNF51, ZBTB27, LAZ3, BCL5, BCL6A"
+BID,,BID,NM_001196.2:1875,Immune Response,,,"Cell Cycle, Regulation",Co-Regulators of autophagy and apoptosis/cell cycle,
+BIRC5,,survivin,NM_001168.2:1215,Immune Response,,,Cell Cycle,G2 phase and G2/M transition,"API4, EPR-1, survivin"
+BLK,,BLK,NM_001715.2:990,Immune Response - Cell Type specific,B-cells,,B-Cell Functions,"B-cell receptor signaling pathway, Cell Type specific",MGC10442
+BLNK,,bca,NM_013314.2:930,Immune Response,,H,,Humoral immune response,"SLP65, Ly57, SLP-65, BLNK-s, BASH, bca"
+BMI1,,BMI1,NM_005180.5:1145,Immune Response,,H,,Humoral immune response,"PCGF4, RNF51"
+BST1,CD157,BST1,NM_004334.2:710,Immune Response,,H,,"CD molecules, Humoral immune response",CD157
+BST2,CD317,BST2,NM_004335.2:560,Immune Response,,H;I,,"CD molecules, Humoral immune response, Innate immune response","CD317, tetherin"
+BTK,,BTK,NM_000061.1:570,Immune Response,,A;I,,"Adaptive immune response, Innate immune response","AGMX1, IMD1, ATK, XLA, PSCTK1"
+BTLA,CD272,BTLA,NM_181780.2:305,Immune Response - Checkpoint,,,Cell Functions,"Basic cell functions, CD molecules","BTLA1, CD272"
+C1QA,,C1QA,NM_015991.2:718,Immune Response,,I,Complement,"Complement pathway, Innate immune response",
+C1QB,,C1QB,NM_000491.3:819,Immune Response,,I,Complement,"Complement pathway, Innate immune response",
+C1QBP,,p32,NM_001212.3:745,Immune Response,,F,Chemokines,"CD molecules, Chemokines and receptors, Inflammatory response","HABP1, gC1Q-R, gC1qR, p32, SF2p32"
+C1R,,C1R,NM_001733.4:760,Immune Response,,I,Complement,"Complement pathway, Innate immune response",
+C1S,,C1S,NM_001734.2:775,Immune Response,,I,Complement,"Complement pathway, Innate immune response",
+C2,,C2,NM_000063.3:1075,Immune Response,,I,Complement,Innate immune response,
+C3,,C3,NM_000064.2:4396,Immune Response,,I,Regulation,"Innate immune response, Regulation of immune response","CPAMD1, ARMD9, C3a, C3b"
+C3AR1,,C3AR,NM_004054.2:415,Immune Response,,F,Regulation,Regulation of inflammatory response,"C3AR, AZ3B"
+C4B,,C4B,NM_001002029.3:4437,Immune Response,,I,Complement,"Complement pathway, Innate immune response","CPAMD3, C4F, CO4, C4B1, C4B3, CH"
+C4BPA,,C4BP,NM_000715.3:690,Immune Response,,I,Complement,"Complement pathway, Innate immune response",C4BP
+C5,,C5,NM_001735.2:2592,Immune Response,,I,Complement,"Complement pathway, Innate immune response","CPAMD4, C5a, C5b"
+C6,,C6,NM_000065.2:3170,Immune Response,,I,Complement,"Complement pathway, Innate immune response",
+C7,,C7,NM_000587.2:310,Immune Response,,I,Complement,"Complement pathway, Innate immune response",
+C8A,,C8A,NM_000562.2:690,Immune Response,,I,Complement,"Complement pathway, Innate immune response",
+C8B,,C8B,NM_000066.2:620,Immune Response,,I,Complement,"Complement pathway, Innate immune response",
+C8G,,C8G,NM_000606.2:407,Immune Response,,I,Complement,"Complement pathway, Innate immune response",
+C9,,C9,NM_001737.3:602,Immune Response,,I,Complement,"Complement pathway, Innate immune response",
+CAMP,,CAMP,NM_004345.3:220,Immune Response,,F,,Inflammatory response,"CAP18, FALL39, FALL-39, LL37"
+CARD11,,CARD11,NM_032415.2:1075,Immune Response,,,Regulation,Regulation of immune response,"CARMA1, BIMP3"
+CARD9,,CARD9,NM_052813.4:1525,Immune Response,,I,,Innate immune response,
+CASP1,,CASP1,NM_001223.3:971,Immune Response,,I,,Innate immune response,"IL1BC, ICE"
+CASP10,,CASP10,NM_032977.3:20,Immune Response,,I,,Innate immune response,MCH4
+CASP3,,CASP3,NM_032991.2:685,Immune Response,,,"Cell Cycle, Regulation","Cell cycle checkpoint and cell cycle arrest, Co-Regulators of autophagy and apoptosis/cell cycle, Negative regulation of cell cycle","CPP32, CPP32B, Yama, apopain"
+CASP8,,CASP8,NM_001228.4:301,Immune Response,,I,,Innate immune response,"MCH5, MACH, FLICE, Casp-8"
+CC2D1B,,CC2D1B,NM_032449.2:4182,HK,,,,,KIAA1836
+CCL1,,CCL1,NM_002981.1:157,Immune Response - Cell Type specific,,F,Chemokines,"Cell Type specific, Chemokines and receptors, Inflammatory response","SCYA1, I-309, TCA3, P500, SISe"
+CCL11,,eotaxin,NM_002986.2:378,Immune Response,,F,Chemokines,"Chemokines and receptors, Chronic inflammatory response","SCYA11, eotaxin, MGC22554"
+CCL13,,CCL13,NM_005408.2:320,Immune Response - Cell Type specific,DC,F,Chemokines,"Cell Type specific, Chemokines and receptors, Inflammatory response","SCYA13, MCP-4, NCC-1, SCYL1, CKb10, MGC17134"
+CCL14,,CCL14,NM_032963.3:274,Immune Response,,,Chemokines,Chemokines and receptors,"SCYA14, HCC-1, HCC-3, NCC-2, SCYL2, CKb1, MCIF"
+CCL15,,CCL15,NM_032965.3:112,Immune Response,,A;F,Chemokines,"Adaptive immune response, Chemokines and receptors, Inflammatory response","SCYA15, HCC-2, NCC-3, SCYL3, MIP-5, Lkn-1, MIP-1d, HMRP-2B"
+CCL16,,CCL16,NM_004590.2:367,Immune Response,,F;H,"Chemokines, Regulation","Chemokines and receptors, Regulation of inflammatory response, Humoral immune response","SCYA16, NCC-4, SCYL4, LEC, HCC-4, LMC, LCC-1, CKb12, Mtn-1"
+CCL17,,CCL17,NM_002987.2:229,Immune Response - Cell Type specific,,,Chemokines,"Cell Type specific, Chemokines and receptors, Inflammatory response","SCYA17, TARC, ABCD-2"
+CCL18,,CCL18,NM_002988.2:585,Immune Response,,,Chemokines,"Chemokines and receptors, Anti-inflammatory cytokines","SCYA18, DC-CK1, PARC, AMAC-1, DCCK1, MIP-4, CKb7"
+CCL19,,CCL19,NM_006274.2:401,Immune Response,,,"Chemokines, Regulation","Chemokines and receptors, Anti-inflammatory cytokines, Regulation of inflammatory response","SCYA19, ELC, MIP-3b, exodus-3, CKb11"
+CCL2,,MCP-1,NM_002982.3:123,Immune Response,,H,Chemokines,"Chemokines and receptors, Humoral immune response","SCYA2, MCP1, MCP-1, MCAF, SMC-CF, GDCF-2, HC11, MGC9434"
+CCL20,,CCL20,NM_004591.1:35,Immune Response,,,Chemokines,Chemokines and receptors,"SCYA20, LARC, MIP-3a, exodus-1, ST38, CKb4"
+CCL21,,CCL21,NM_002989.2:180,Immune Response,,,"Chemokines, Regulation","Chemokines and receptors, Anti-inflammatory cytokines, Regulation of inflammatory response","SCYA21, SLC, exodus-2, TCA4, CKb9, 6Ckine, ECL"
+CCL22,,MDC,NM_002990.3:797,Immune Response - Cell Type specific,,,"Chemokines, Pathogen Defense","Cell Type specific, Chemokines and receptors, Defense response to virus","SCYA22, MDC, STCP-1, ABCD-1, DC/B-CK, A-152E5.1, MGC34554"
+CCL23,,CCL23,NM_145898.1:336,Immune Response,,F,"Chemokines, Regulation","Chemokines and receptors, Regulation of inflammatory response","SCYA23, Ckb-8, MPIF-1, MIP-3, CKb8"
+CCL24,,eotaxin-2,NM_002991.2:18,Immune Response,,F,"Chemokines, Regulation","Chemokines and receptors, Regulation of inflammatory response","SCYA24, Ckb-6, MPIF-2, eotaxin-2, MPIF2"
+CCL25,,CCL25,NM_005624.2:325,Immune Response,,F,"Chemokines, Complement","Chemokines and receptors, Complement pathway, Inflammatory response","SCYA25, TECK, Ckb15"
+CCL26,,CCL26,NM_006072.4:184,Immune Response,,F,Chemokines,"Chemokines and receptors, Inflammatory response","SCYA26, MIP-4alpha, eotaxin-3, IMAC, MIP-4a, TSC-1"
+CCL27,,CCL27,NM_006664.2:304,Immune Response,,,Chemokines,Chemokines and receptors,"SCYA27, ALP, ILC, CTACK, skinkine, ESkine, PESKY, CTAK"
+CCL28,,CCL28,NM_148672.2:100,Immune Response,,,Chemokines,Chemokines and receptors,"SCYA28, MEC, CCK1"
+CCL3,,MIP-1-alpha,NM_002983.2:159,Immune Response,,F;H,"Chemokines, Regulation","Chemokines and receptors, Humoral immune response, Regulation of inflammatory response, T-cell polarization","SCYA3, G0S19-1, LD78ALPHA, MIP-1-alpha"
+CCL3L1,,CCL3L1,NM_021006.4:421,Immune Response,,,Cytokines,Cytokines and receptors,"D17S1718, SCYA3L, SCYA3L1, G0S19-2, LD78BETA"
+CCL4,,CCL4,NM_002984.2:35,Immune Response,,F,"Chemokines, Regulation","Chemokines and receptors, Regulation of inflammatory response","LAG1, SCYA4, MIP-1-beta, Act-2, AT744.1"
+CCL5,,RANTES,NM_002985.2:280,Immune Response,,F;I,"Chemokines, Cytokines","Cytokines and receptors, Chronic inflammatory response, Chemokines and receptors, Acute-phase response, Inflammatory response, Innate immune response","D17S136E, SCYA5, RANTES, SISd, TCP228, MGC17164"
+CCL7,,FIC,NM_006273.2:120,Immune Response - Cell Type specific,,F,Chemokines,"Cell Type specific, Chemokines and receptors, Inflammatory response","SCYA6, SCYA7, MCP-3, NC28, FIC, MARC, MCP3"
+CCL8,,MCP-2,NM_005623.2:689,Immune Response,,F,"Chemokines, Regulation","Chemokines and receptors, Regulation of inflammatory response","SCYA8, MCP-2, HC14"
+CCND3,,CCND3,NM_001760.2:1215,Immune Response,,,Cell Cycle,Regulation of cell cycle,
+CCR1,CD191,CCR1,NM_001295.2:535,Immune Response,,F,"Chemokines, Cytokines, NK Cell Functions, Regulation, T-Cell Functions","CD molecules, Chemokines and receptors, Cytokines and receptors, Regulation of inflammatory response, T-cell polarization","SCYAR1, CMKBR1, CKR-1, MIP1aR, CD191"
+CCR2,CD192,CCR2,NM_001123041.2:743,Immune Response - Cell Type specific,,F,Cytokines,"Cell Type specific, CD molecules, Cytokines and receptors, Inflammatory response","CMKBR2, CC-CKR-2, CKR2, MCP-1-R, CD192, FLJ78302"
+CCR3,CD193,CCR3,NM_001837.2:980,Immune Response - Cell Type specific,,,Chemokines,"Cell Type specific, CD molecules, Chemokines and receptors","CMKBR3, CC-CKR-3, CKR3, CD193"
+CCR4,CD194,ChemR13,NM_005508.4:35,Immune Response,,F,"Chemokines, Cytokines, Regulation, T-Cell Functions","CD molecules, Chemokines and receptors, Cytokines and receptors, Regulation of inflammatory response, T-cell polarization","CC-CKR-4, CMKBR4, CKR4, k5-5, ChemR13, CD194"
+CCR5,CD195,CCR5,NM_000579.1:2730,Immune Response,,,"Cytokines, T-Cell Functions","CD molecules, Cytokines and receptors, T-cell polarization","CMKBR5, CKR-5, CC-CKR-5, CKR5, CD195, IDDM22"
+CCR6,CD196,CCR6,NM_031409.2:935,Immune Response,,H;I,,"CD molecules, Humoral immune response, Innate immune response","STRL22, CKR-L3, GPR-CY4, CMKBR6, GPR29, DRY-6, DCR2, BN-1, CD196"
+CCR7,CD197,CCR7,NM_001838.2:1610,Immune Response,,F;H,"Chemokines, Regulation","CD molecules, Chemokines and receptors, Humoral immune response, Regulation of inflammatory response","CMKBR7, EBI1, BLR2, CDw197, CD197"
+CCR9,CDw199,CCR9,NM_031200.1:1095,Immune Response,,I,,"CD molecules, Innate immune response","GPR28, GPR-9-6, CDw199"
+CCRL2,,CCRL2,NM_003965.4:1110,Immune Response,,F,Chemokines,"Chemokines and receptors, Inflammatory response","HCR, CRAM-B, CKRX, CRAM-A, ACKR5"
+CD14,CD14,CD14,NM_000591.2:885,Immune Response,,I,,"CD molecules, Innate immune response",
+CD160,CD160,CD160,NM_007053.2:500,Immune Response - Cell Type specific,,,Regulation,"Cell Type specific, CD molecules, Regulation of immune response","BY55, NK1, NK28"
+CD163,CD163,CD163,NM_004244.4:1630,Immune Response,Macrophages,,Transporter Functions,"CD molecules, Phagocytosis","M130, MM130"
+CD164,CD164,MUC-24,NM_006016.4:2575,Immune Response,,,,CD molecules,"MUC-24, MGC-24"
+CD180,CD180,CD180,NM_005582.2:1036,Immune Response,,I,,"CD molecules, Innate immune response","LY64, RP105, Ly78"
+CD19,CD19,CD19,NM_001770.4:1770,Immune Response - Cell Type specific,B-cells,,"B-Cell Functions, Regulation","B-cell receptor signaling pathway, Cell Type specific, CD molecules, Regulation of immune response",
+CD1A,CD1A,CD1A,NM_001763.2:1815,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific, CD molecules",CD1
+CD1B,CD1B,CD1B,NM_001764.2:1045,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific, CD molecules",CD1
+CD1C,CD1C,CD1C,NM_001765.2:750,Immune Response,,,T-Cell Functions,"CD molecules, T-cell activation",CD1
+CD1D,CD1D,CD1D,NM_001766.3:1428,Immune Response,,,"B-Cell Functions, Cell Functions, T-Cell Functions","CD molecules, T-cell differentiation",
+CD1E,CD1E,CD1E,NM_001042583.1:180,Immune Response - Cell Type specific,,,Antigen Processing,"Antigen processing and presentation, Cell Type specific, CD molecules",
+CD2,CD2,CD2,NM_001767.3:687,Immune Response - Cell Type specific,,,"NK Cell Functions, T-Cell Functions","Cell Type specific, CD molecules, Leukocyte migration, T-cell activation, T-cell differentiation",SRBC
+CD200,CD200,CD200,NM_005944.5:665,Immune Response,,,Regulation,"CD molecules, Regulation of immune response","MOX1, MOX2, MRC, OX-2"
+CD207,CD207,Langerin,NM_015717.2:995,Immune Response,,,,CD molecules,"Langerin, CLEC4K"
+CD209,CD209,CD209,NM_021155.2:1532,Immune Response - Cell Type specific,DC,,Cell Functions,"Basic cell functions, Cell Type specific, CD molecules","DC-SIGN, CDSIGN, DC-SIGN1, CLEC4L"
+CD22,CD22,CD22,NM_001771.2:2515,Immune Response,,A,,"Adaptive immune response, CD molecules","SIGLEC-2, SIGLEC2"
+CD24,CD24,CD24,NM_013230.2:95,Immune Response,,,,CD molecules,CD24A
+CD244,CD244,CD244,NM_016382.2:1150,Immune Response,Exhausted CD8,,,CD molecules,"2B4, NAIL, NKR2B4, Nmrk, SLAMF4"
+CD247,CD247,CD247,NM_198053.1:1490,Immune Response,,,Regulation,"CD molecules, Regulation of immune response","CD3Z, CD3H, CD3Q"
+CD27,CD27,CD27,NM_001242.4:330,Immune Response - Checkpoint,,,"B-Cell Functions, T-Cell Functions","B-cell differentiation, CD molecules","TNFRSF7, S152, Tp55"
+CD274,CD274,PD-L1,NM_014143.3:1245,Immune Response,,,"B-Cell Functions, Cell Functions, T-Cell Functions","CD molecules, T-cell polarization","PDCD1LG1, B7-H, B7H1, PD-L1, PDL1, B7-H1"
+CD276,CD276,CD276,NM_001024736.1:2120,Immune Response,,,Regulation,"CD molecules, Regulation of immune response","B7-H3, B7H3, B7RP-2"
+CD28,CD28,CD28,NM_001243078.1:2065,Immune Response - Cell Type specific / Checkpoint,,F;H,,"Cell Type specific, CD molecules, Humoral immune response, Inflammatory response to antigenic stimulus, T-cell activation, T-cell proliferation",
+CD33,CD33,CD33,NM_001177608.1:730,Immune Response,,,,CD molecules,"SIGLEC3, SIGLEC-3, p67, FLJ00391"
+CD34,CD34,CD34,NM_001025109.1:1580,Immune Response,,,Regulation,"CD molecules, Regulation of immune response",
+CD36,CD36,CD36,NM_001001548.2:705,Immune Response,,,Transporter Functions,"CD molecules, Receptors involved in phagocytosis","SCARB3, GPIV, FAT, GP4, GP3B"
+CD37,CD37,CD37,NM_001774.2:535,Immune Response,,A,,"Adaptive immune response, CD molecules",TSPAN26
+CD38,CD38,CD38,NM_001775.2:460,Immune Response - Cell Type specific,,A,"B-Cell Functions, Regulation, T-Cell Functions","Adaptive immune response, Cell Type specific, CD molecules, Response to drug, Positive regulation of B-cell proliferation",
+CD3D,CD3D,CD3D,NM_000732.4:110,Immune Response,T-cells,A,Regulation,"Adaptive immune response, CD molecules, Regulation of immune response",T3D
+CD3E,CD3E,CD3E,NM_000733.2:75,Immune Response - Cell Type specific,T-cells,A,"B-Cell Functions, Cell Functions, T-Cell Functions","Adaptive immune response, Cell Type specific, CD molecules, T-cell anergy, T-cell differentiation, T-cell proliferation",
+CD3EAP,CD3EAP,CD3EAP,NM_012099.1:555,Immune Response,,A,Regulation,"Adaptive immune response, CD molecules, Transcription factors","ASE-1, CAST, PAF49"
+CD3G,CD3G,CD3G,NM_000073.2:404,Immune Response - Cell Type specific,T-cells,A,"Regulation, T-Cell Functions","Adaptive immune response, Cell Type specific, CD molecules, Regulation of immune response, T-cell activation",
+CD4,CD4,CD4,NM_000616.4:975,Immune Response,,A;I,,"Adaptive immune response, CD molecules, Innate immune response",
+CD40,CD40,CD40,NM_001250.4:1265,Immune Response,,A,Regulation,"Adaptive immune response, CD molecules, Regulation of immune response","TNFRSF5, p50, Bp50"
+CD40LG,CD154,CD40L,NM_000074.2:1225,Immune Response - Checkpoint,,A,Regulation,"Adaptive immune response, CD molecules, Regulation of immune response","HIGM1, IMD3, TNFSF5, CD40L, TRAP, gp39, hCD40L, CD154"
+CD44,CD44,CD44,NM_001001392.1:429,Immune Response,,,"Senescence, Transporter Functions","Phagocytosis recognition and engulfment, Senescence pathway","MIC4, MDU2, MDU3, IN, MC56, Pgp1, CD44R, HCELL, CSPG8"
+CD46,CD46,CD46,NM_172350.1:365,Immune Response,,I,,"CD molecules, Innate immune response","MIC10, MCP, TRA2.10, MGC26544, TLX"
+CD47,CD47,CD47,NM_001777.3:897,Immune Response,,,"Macrophage Functions, Regulation, T-Cell Functions, Transporter Functions","CD molecules, Phagocytosis recognition and engulfment, Regulators of T-cell activation","MER6, IAP, OA3"
+CD48,CD48,CD48,NM_001778.2:270,Immune Response,,,,CD molecules,"BCM1, BLAST, mCD48, hCD48, SLAMF2"
+CD5,CD5,CD5,NM_014207.2:1295,Immune Response,,A,"B-Cell Functions, Regulation, T-Cell Functions","Adaptive immune response, CD molecules, Regulators of Th1 and Th2 development","LEU1, T1"
+CD53,CD53,CD53,NM_001040033.1:835,Immune Response,,A,,"CD molecules, Adaptive immune response","MOX44, TSPAN25"
+CD55,CD55,CD55,NM_000574.3:101,Immune Response,,I,,"CD molecules, Innate immune response","DAF, CR, TC, CROM"
+CD58,CD58,CD58,NM_001779.2:478,Immune Response,,A,,"Adaptive immune response, CD molecules",LFA3
+CD59,CD59,CD59,NM_000611.4:730,Immune Response,,,,CD molecules,"MIC11, MIN1, MSK21, MIN2, MIN3, 16.3A5, EJ16, EJ30, EL32, G344, p18-20"
+CD6,CD6,CD6,NM_006725.3:1280,Immune Response - Cell Type specific,T-cells,A,Cell Functions,"Adaptive immune response, Basic cell functions, Cell Type specific, CD molecules",Tp120
+CD63,CD63,CD63,NM_001780.4:350,Immune Response,,,,CD molecules,"MLA1, ME491, TSPAN30"
+CD68,CD68,CD68,NM_001251.2:1140,Immune Response - Cell Type specific,Macrophages,,Cell Functions,"Basic cell functions, Cell Type specific, CD molecules","SCARD1, macrosialin, GP110, DKFZp686M18236, LAMP4"
+CD7,CD7,CD7,NM_006137.6:440,Immune Response,,A,"NK Cell Functions, Regulation, T-Cell Functions","Adaptive immune response, CD molecules, Regulators of T-cell activation, Regulators of Th1 and Th2 development","GP40, LEU-9, TP41, Tp40"
+CD70,CD27L,CD70,NM_001252.2:190,Immune Response,,A,"B-Cell Functions, Cell Functions, Cytokines, T-Cell Functions, TNF Superfamily","Adaptive immune response, CD molecules, Cytokines and receptors, TNF superfamily members and their receptors","CD27LG, TNFSF7, CD27L"
+CD74,CD74,CD74,NM_001025159.1:964,Immune Response,,A,,"Adaptive immune response, CD molecules",DHLAG
+CD79A,CD79A,CD79A,NM_001783.3:695,Immune Response,,A,,"Adaptive immune response, CD molecules","IGA, MB-1"
+CD79B,CD79B,CD79B,NM_021602.2:24,Immune Response,,A,B-Cell Functions,"Adaptive immune response, B-cell activation, CD molecules","IGB, B29"
+CD80,CD28LG,CD80,NM_005191.3:1288,Immune Response,,A,"B-Cell Functions, Macrophage Functions, Regulation, T-Cell Functions","Adaptive immune response, B-cell activation, CD molecules, Regulators of T-cell activation, T-cell differentiation","CD28LG, CD28LG1, B7.1, B7-1"
+CD81,CD81,CD81,NM_004356.3:735,Immune Response,,A,Regulation,"Adaptive immune response, CD molecules, Regulation of immune response","TAPA1, TAPA-1, TSPAN28"
+CD83,CD83,CD83,NM_004233.3:1960,Immune Response,,H,,"CD molecules, Humoral immune response","HB15, BL11"
+CD84,CD84,CD84,NM_001184879.1:28,Immune Response,Macrophages,,,CD molecules,"SLAMF5, hCD84, mCD84"
+CD86,CD28LG2,CD86,NM_175862.3:1265,Immune Response,,A,"B-Cell Functions, Macrophage Functions, Regulation, T-Cell Functions","Adaptive immune response, CD molecules, Defense response to virus, Regulators of T-cell activation, Th1 & Th2 differentiation, T-cell differentiation","CD28LG2, B7.2, B7-2"
+CD8A,CD8,CD8A,NM_001768.5:1320,Immune Response - Cell Type specific,CD8 T cells,A,"Antigen Processing, Pathogen Defense, T-Cell Functions","Adaptive immune response, Antigen processing and presentation, Cell Type specific, CD molecules, Defense response to virus, T-cell activation, T-cell differentiation",CD8
+CD8B,CD8B,CD8B,NM_004931.3:440,Immune Response - Cell Type specific,CD8 T cells,A,"Regulation, T-Cell Functions","Adaptive immune response, Cell Type specific, CD molecules, Regulation of immune response, T-cell activation",CD8B1
+CD9,CD9,CD9,NM_001769.2:405,Immune Response,,,,CD molecules,"MIC3, BA2, P24, TSPAN29, MRP-1"
+CD96,CD96,CD96,NM_005816.4:1355,Immune Response,,,Regulation,"CD molecules, Regulation of immune response",TACTILE
+CD97,CD97,CD97,NM_078481.2:1370,Immune Response,,F,,"CD molecules, Inflammatory response",TM7LN1
+CD99,CD99,CD99,NM_002414.3:625,Immune Response,,,,CD molecules,MIC2
+CDH1,CD324,CDH1,NM_004360.2:535,Immune Response,,,Regulation,"CD molecules, Regulation of immune response","UVO, uvomorulin, CD324"
+CDH5,CD144,CD144,NM_001795.3:3405,Immune Response,,,,CD molecules,"7B4, CD144"
+CDK1,,CDC2,NM_001786.4:178,Immune Response,,I,,Innate immune response,"CDC2, CDC28A"
+CDKN1A,,P21,NM_000389.2:1975,Immune Response,,,"Cell Cycle, Regulation, Senescence","Cell cycle checkpoint and cell cycle arrest, Regulation of cell cycle, Senescence pathway, Senescence initiators interferon related","CDKN1, P21, CIP1, WAF1, SDI1, CAP20, p21CIP1, p21Cip1/Waf1"
+CEACAM1,CD66a,CEACAM1,NM_001712.3:2455,Immune Response,,,Adhesion,"Adhesion, CD molecules","BGP, BGP1, CD66a"
+CEACAM6,CD66c,CEACAM6,NM_002483.4:1217,Immune Response,,,Adhesion,"Adhesion, CD molecules","NCA, CD66c"
+CEACAM8,CD66b,CD66b,NM_001816.3:825,Immune Response,,,"Adhesion, Chemokines","Adhesion, CD molecules, Chemokines and receptors","CGM6, CD66b"
+CEBPB,,C/EBP-beta,NM_005194.2:1420,Immune Response,,,,Acute-phase response,"TCF5, LAP, CRP2, NFIL6, IL6DBP, C/EBP-beta"
+CFB,,CFB,NM_001710.5:2029,Immune Response,,I,,Innate immune response,"BFD, BF, H2-Bf"
+CFD,,CFD,NM_001928.2:859,Immune Response,,I,,Innate immune response,"DF, PFD, ADN"
+CFI,,C3b-INA,NM_000204.3:1780,Immune Response,,I,,Innate immune response,"IF, FI, C3b-INA, KAF"
+CFP,,CFP,NM_002621.2:380,Immune Response,,I,,Innate immune response,PFC
+CHIT1,,CHIT1,NM_003465.2:410,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific","CHIT, CHI3"
+CHUK,,IKK-alpha,NM_001278.3:860,Immune Response,,I,,Innate immune response,"TCF16, IKK1, IKK-alpha, IkBKA, NFKBIKA, IKKA"
+CKLF,,C32,NM_181640.2:275,Immune Response,,F,Chemokines,"Chemokines and receptors, Inflammatory response","CKLF1, UCK-1, CKLF3, CKLF4, HSPC224, C32"
+CLEC4A,,DCIR,NM_194448.2:388,Immune Response,,I,,Innate immune response,"CLECSF6, DCIR, DDB27"
+CLEC4C,CD303,CLEC4C,NM_203503.1:570,Immune Response,,I,,"CD molecules, Innate immune response","CLECSF11, CLECSF7, HECL, DLEC, BDCA2, CD303"
+CLEC5A,,MDL-1,NM_013252.2:615,Immune Response,,I,,Innate immune response,"CLECSF5, MDL-1"
+CLEC6A,,dectin-2,NM_001007033.1:342,Immune Response,,I,,Innate immune response,"CLECSF10, dectin-2"
+CLEC7A,,dectin-1,NM_197954.2:55,Immune Response,,I,,Innate immune response,"CLECSF12, dectin-1, hDectin-1"
+CLU,,CLU,NM_001831.2:2340,Immune Response,,I,,Innate immune response,"CLI, APOJ, SGP-2, SP-40, TRPM-2, KUB1, CLU1, CLU2"
+CMA1,,CMA1,NM_001836.2:561,Immune Response - Cell Type specific,,F,Regulation,"Cell Type specific, Regulation of inflammatory response",
+CMKLR1,,CMKLR1,NM_004072.1:770,Immune Response,,,Chemokines,Chemokines and receptors,RVER1
+CNOT10,,CNOT10,NM_001256741.1:1962,HK,,,,,"FLJ12890, FLJ13165"
+CNOT4,,CNOT4,NM_001190848.1:795,HK,,,,,"NOT4, CLONE243, NOT4H"
+COG7,,COG7,NM_153603.3:1492,HK,,,,,
+COL3A1,,COL3A1,NM_000090.3:180,Immune Response,,,Regulation,Negative regulation of immune response,EDS4A
+COLEC12,,COLEC12,NM_130386.2:900,Immune Response,,I,,Innate immune response,"SRCL, CL-P1, SCARA4"
+CR1,CD35,CD35,NM_000651.4:1695,Immune Response,,I,,"CD molecules, Innate immune response","CD35, KN"
+CR2,CD21,CD21,NM_001006658.1:485,Immune Response - Cell Type specific,,I,B-Cell Functions,"B-cell activation, Cell Type specific, CD molecules, Innate immune response",CD21
+CREB1,,CREB1,NM_004379.3:4855,Immune Response,,I,,Innate immune response,
+CREB5,,CREB5,NM_182898.2:1885,Immune Response,,F,,"Complement pathway, Inflammatory response","H_GS165L15.1, CRE-BPA"
+CREBBP,,CBP,NM_004380.2:8855,Immune Response,,I,,Innate immune response,"RSTS, RTS, CBP, KAT3A"
+CRP,,CRP,NM_000567.2:1521,Immune Response,,F;H;I,Transporter Functions,"Acute-phase response, Humoral immune response, Inflammatory response, Innate immune response, Receptors involved in phagocytosis",PTX1
+CSF1,,M-CSF,NM_000757.4:823,Immune Response,,I,,Innate immune response,"M-CSF, MCSF, MGC31930"
+CSF1R,CD115,CSF1R,NM_005211.2:3775,Immune Response,,I,,"CD molecules, Innate immune response","FMS, C-FMS, CSFR, CD115"
+CSF2,,GM-CSF,NM_000758.2:475,Immune Response - Cell Type specific,,,"Cytokines, Macrophage Functions, Regulation","Cell Type specific, Cytokines and receptors, Positive regulation of macrophages","GM-CSF, GMCSF"
+CSF2RB,CD131,CSF2RB,NM_000395.2:3300,Immune Response,,A,Chemokines,"CD molecules, Chemokines and receptors, Adaptive immune response","IL3RB, IL5RB, CD131"
+CSF3,,G-CSF,NM_000759.3:851,Immune Response,,,Cell Functions,Basic cell functions,"GCSF, G-CSF, C17orf33, MGC45931"
+CSF3R,CD114,CSF3R,NM_156038.2:90,Immune Response - Cell Type specific,Neutrophils,,Cytokines,"Cell Type specific, CD molecules, Cytokines and receptors","CD114, GCSFR"
+CT45A1,,CT45A1,NM_001017417.1:866,CT Antigen,,,,,"CT45-1, CT45.1"
+CTAG1B,,CTAG1B,NM_001327.2:285,CT Antigen,,,,,"CTAG, CTAG1, NY-ESO-1, LAGE2B, LAGE2A, ESO1, CT6.1"
+CTAGE1,,CTAGE1,NM_172241.2:3365,CT Antigen,,,,,"cTAGE-1, cTAGE-2, CTAGE, CT21.1, CT21.2"
+CTCFL,,CTCFL,NM_001269042.1:1100,CT Antigen,,,,,"dJ579F20.2, BORIS, CT27"
+CTLA4,CD152,CD152,NM_005214.3:405,Immune Response - Cell Type specific / Checkpoint,,A,"B-Cell Functions, T-Cell Functions","Adaptive immune response, B-cell receptor signaling pathway, Cell Type specific, CD molecules, T-cell receptor signaling pathway","CELIAC3, IDDM12, CD152, CD, GSE, CD28, ICOS"
+CTSG,,CTSG,NM_001911.2:160,Immune Response - Cell Type specific,,,"Pathogen Defense, Regulation","Cell Type specific, Defense response to fungus, Positive regulation of immune response",CG
+CTSH,,CTSH,NM_004390.3:344,Immune Response,,A,,Adaptive immune response,"CPSB, ACC-4, ACC-5"
+CTSL,,CTSL,NM_001912.4:1072,Immune Response,,A,,Adaptive immune response,"CTSL1, FLJ31037"
+CTSS,,CTSS,NM_004079.3:685,Immune Response,,A,,Adaptive immune response,
+CTSW,,CTSW,NM_001335.3:1075,Immune Response,Cytotoxic cells,,Transporter Functions,"CD molecules, Phagocytosis",
+CX3CL1,,CX3CL1,NM_002996.3:140,Immune Response,,A,"Chemokines, Leukocyte Functions","Adaptive immune response, Leukocyte activation, Chemokines and receptors, Th1 orientation","SCYD1, NTN, C3Xkine, ABCD-3, CXC3C, CXC3, fractalkine, neurotactin"
+CX3CR1,,CX3CR1,NM_001337.3:1040,Immune Response,,A,"Chemokines, Microglial Functions","Adaptive immune response, Chemokines and receptors, Microglial cell activation","GPR13, CMKBRL1, CMKDR1, V28, CCRL1"
+CXCL1,,CXCL1,NM_001511.1:742,Immune Response,,F,"Chemokines, Regulation","Chemokines and receptors, Regulation of inflammatory response","MGSA, GRO1, FSP, SCYB1, GROa, MGSA-a, NAP-3"
+CXCL10,,CXCL10,NM_001565.1:40,Immune Response,,A;F;I,"Chemokines, Cytokines, Pathogen Defense, Regulation, T-Cell Functions","Adaptive immune response, Chemokines and receptors, Cytokines and receptors, Defense response to virus, Innate immune response, Regulation of inflammatory response, Th1 orientation","INP10, SCYB10, IFI10, IP-10, crg-2, mob-1, C7, gIP-10"
+CXCL11,,CXCL11,NM_005409.4:282,Immune Response,,A,"Chemokines, NK Cell Functions, T-Cell Functions","Adaptive immune response, Chemokines and receptors, Th1 orientation","SCYB9B, SCYB11, H174, b-R1, I-TAC, IP-9"
+CXCL12,,CXCL12,NM_000609.5:210,Immune Response,,,Chemokines,Chemokines and receptors,"SDF1A, SDF1B, SDF1, SCYB12, SDF-1a, SDF-1b, PBSF, TLSF-a, TLSF-b, TPAR1"
+CXCL13,,CXCL13,NM_006419.2:210,Immune Response - Cell Type specific,,A;F;H,Chemokines,"Adaptive immune response, Cell Type specific, Chronic inflammatory response, Humoral immune response, Chemokines and receptors","SCYB13, BLC, BCA-1, BLR1L, ANGIE, ANGIE2"
+CXCL14,,CXCL14,NM_004887.4:1125,Immune Response,,A;F,Chemokines,"Adaptive immune response, Chemokines and receptors, Inflammatory response","SCYB14, BRAK, NJAC, bolekine, Kec, MIP-2g, BMAC, KS1"
+CXCL16,,CXCL16,NM_001100812.1:850,Immune Response,,A,Chemokines,"Adaptive immune response, Chemokines and receptors","SR-PSOX, CXCLG16, SRPSOX"
+CXCL2,,CXCL2,NM_002089.3:854,Immune Response,,F,"Chemokines, Regulation","Regulation of inflammatory response, Chemokines and receptors","GRO2, SCYB2, GROb, MIP-2a, MGSA-b, CINC-2a"
+CXCL3,,CXCL3,NM_002090.2:540,Immune Response,,F,"Chemokines, Regulation","Chemokines and receptors, Regulation of inflammatory response","GRO3, SCYB3, GROg, MIP-2b, CINC-2b"
+CXCL5,,CXCL5,NM_002994.3:250,Immune Response - Cell Type specific,,,Chemokines,"Cell Type specific, Chemokines and receptors","SCYB5, ENA-78"
+CXCL6,,CXCL6,NM_002993.3:539,Immune Response,,F,"Chemokines, Regulation","Chemokines and receptors, Regulation of inflammatory response","SCYB6, GCP-2, CKA-3"
+CXCL9,,MIG,NM_002416.1:1975,Immune Response,,A;F,"Chemokines, Regulation, T-Cell Functions","Adaptive immune response, Chemokines and receptors, Regulation of inflammatory response, Th1 orientation","CMK, MIG, SCYB9, Humig, crg-10"
+CXCR1,CD181,IL8RA,NM_000634.2:1950,Immune Response,,F,"Chemokines, Regulation","CD molecules, Chemokines and receptors, Regulation of inflammatory response","CMKAR1, IL8RA, CKR-1, CDw128a, CD181"
+CXCR2,CD182,IL8RB,NM_001557.2:2055,Immune Response,,F,"Chemokines, Regulation","CD molecules, Chemokines and receptors, Regulation of inflammatory response","IL8RB, CMKAR2, CD182"
+CXCR3,CD183,CXCR3,NM_001504.1:80,Immune Response,,A,"Chemokines, NK Cell Functions, T-Cell Functions","Adaptive immune response, CD molecules, Chemokines and receptors, T-cell polarization","GPR9, CKR-L2, CMKAR3, IP10-R, MigR, CD183"
+CXCR4,CD184,CXCR4,NM_003467.2:1335,Immune Response,,A,"Cell Cycle, Cell Functions, Chemokines, Regulation","Adaptive immune response, CD molecules, Chemokines and receptors, Co-Regulators of autophagy and apoptosis/cell cycle, T-cell polarization","LESTR, NPY3R, HM89, NPYY3R, D2S201E, fusin, HSY3RR, NPYR, CD184"
+CXCR5,CD185,CXCR5,NM_001716.3:2618,Immune Response,,A,"B-Cell Functions, Chemokines, T-Cell Functions","Adaptive immune response, B-cell activation, CD molecules, Chemokines and receptors","BLR1, MDR15, CD185"
+CXCR6,CD186,CXCR6,NM_006564.1:95,Immune Response - Cell Type specific,,,Chemokines,"Cell Type specific, CD molecules, Chemokines and receptors","TYMSTR, STRL33, BONZO, CD186"
+CYBB,,CYBB,NM_000397.3:2686,Immune Response,,I,,Innate immune response,"CGD, GP91-PHOX, NOX2"
+CYFIP2,,CYFIP2,NM_001037332.2:4043,Immune Response,,I,,Innate immune response,PIR121
+CYLD,,CYLD,NM_015247.1:2890,Immune Response,,I,,Innate immune response,"CYLD1, KIAA0849, USPL2"
+DDX43,,HAGE,NM_018665.2:1255,CT Antigen,,,,,"HAGE, DKFZp434H2114, CT13"
+DDX50,,DDX50,NM_024045.1:1185,HK,,,,,"GU2, MGC3199, GUB, RH-II/GuB"
+DDX58,,RIG-I,NM_014314.3:2130,Immune Response,,I,,Innate immune response,"RIG-I, FLJ13599, DKFZp434J1111"
+DEFB1,,DEFB1,NM_005218.3:40,Immune Response,,I,,Innate immune response,"HBD-1, DEFB-1, DEFB101, HBD1, BD1, MGC51822"
+DHX16,,DBP2,NM_001164239.1:2490,HK,,,,,"DDX16, DBP2, Prp2, PRPF2"
+DMBT1,,DMBT1,NM_007329.2:3712,Immune Response,,I,,Innate immune response,"GP340, muclin"
+DNAJC14,,DNAJ,NM_032364.5:1166,HK,,,,,"DNAJ, DRIP78, HDJ3, LIP6, FLJ32792"
+DOCK9,,DOCK9,NM_001130048.1:1020,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific","KIAA1058, ZIZ1"
+DPP4,CD26,CD26,NM_001935.3:2700,Immune Response,,,"Macrophage Functions, Regulation, T-Cell Functions","CD molecules, Regulators of T-cell activation","CD26, ADCP2, DPPIV"
+DUSP4,,DUSP4,NM_057158.2:3115,Immune Response,,I,,Innate immune response,"HVH2, MKP-2, TYP"
+DUSP6,,DUSP6,NM_001946.2:1535,Immune Response,,I,,Innate immune response,"MKP-3, PYST1"
+EBI3,,EBI3,NM_005755.2:485,Immune Response - Cell Type specific,,H,Cytokines,"Cell Type specific, Cytokines and receptors, Humoral immune response",
+ECSIT,,ECSIT,NM_001142464.2:1318,Immune Response,,I,,Innate immune response,SITPEC
+EDC3,,EDC3,NM_001142443.1:925,HK,,,,,"YJDC, LSM16, FLJ21128, hYjeF_N2-15q23, YJEFN2"
+EGR1,,EGR1,NM_001964.2:1505,Immune Response,,,"Senescence, T-Cell Functions","T-cell differentiation, Senescence initiators interferon related","TIS8, G0S30, NGFI-A, KROX-24, ZIF-268, AT225, ZNF225"
+EGR2,,EGR2,NM_000399.3:1891,Immune Response,,,Regulation,Transcriptional regulators,KROX20
+EIF2B4,,EIF-2B,NM_172195.3:1390,HK,,,,,"EIF2Bdelta, EIF-2B, DKFZP586J0119, EIF2B"
+ELANE,,ELA2,NM_001972.2:195,Immune Response,,,Regulation,Positive regulation of immune response,"ELA2, NE, HNE, HLE"
+ELK1,,ELK1,NM_005229.3:2350,Immune Response,,I,,Innate immune response,
+ENG,CD105,ENG,NM_001114753.1:1480,Immune Response,,,,CD molecules,"ORW1, ORW, END, HHT1, CD105"
+ENTPD1,CD39,CD39,NM_001098175.1:8830,Immune Response,,A,,"Adaptive immune response, CD molecules","CD39, NTPDase-1, ATPDase, SPG64"
+EOMES,,EOMES,NM_005442.2:1670,Immune Response,Exhausted CD8,,T-Cell Functions,"CD8-positive, T-cell differentiation",TBR2
+EP300,,p300,NM_001429.2:715,Immune Response,,I,,Innate immune response,"p300, KAT3B"
+EPCAM,CD326,EPCAM,NM_002354.1:415,Immune Response,,,"Adhesion, Cell Functions","Adhesion, Basic cell functions, CD molecules","M4S1, MIC18, TACSTD1, Ly74, TROP1, GA733-2, EGP34, EGP40, EGP-2, KSA, CD326, Ep-CAM, HEA125, KS1/4, MK-1, MH99, MOC31, 323/A3, 17-1A, TACST-1, CO-17A, ESA"
+ERCC3,,XPB,NM_000122.1:1950,HK,,,,,"XPB, BTF2, RAD25, TFIIH, GTF2H"
+ETS1,,ETS-1,NM_005238.3:4625,Immune Response,,,Senescence,Senescence pathway,"EWSR2, FLJ10768, ETS-1"
+EWSR1,,EWS,NM_013986.3:452,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific",EWS
+F12,,F12,NM_000505.3:1862,Immune Response,,I,,Innate immune response,
+F13A1,,F13A1,NM_000129.3:3196,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific",F13A
+F2RL1,,PAR2,NM_005242.3:940,Immune Response,,,"Macrophage Functions, T-Cell Functions",T-cell activation,"GPR11, PAR2"
+FADD,,FADD,NM_003824.2:1560,Immune Response,,I,,Innate immune response,"MORT1, GIG3"
+FAS,CD95,FAS,NM_000043.3:90,Immune Response,,,"B-Cell Functions, Regulation, T-Cell Functions, TNF Superfamily, Transporter Functions","B-cell activation, CD molecules, Co-Regulators of autophagy and apoptosis/cell cycle, Receptors involved in phagocytosis, T-cell regulators, TNF superfamily members and their receptors","FAS1, APT1, TNFRSF6, CD95, APO-1"
+FCER1A,,FCER1A,NM_002001.2:114,Immune Response,,F,,Inflammatory response,FCE1A
+FCER1G,,FCER1G,NM_004106.1:36,Immune Response,,,Regulation,Positive regulation of immune response,
+FCER2,CD23,CD23,NM_002002.4:420,Immune Response,,A;F,,"Adaptive immune response, CD molecules, Inflammatory response","CD23A, FCE2, CLEC4J, CD23"
+FCF1,,Bka,NM_015962.4:1022,HK,,,,,"C14orf111, CGI-35, Bka, UTP24"
+FCGR1A,CD64,CD64,NM_000566.3:1545,Immune Response,,I,,"CD molecules, Innate immune response","CD64, CD64A"
+FCGR2A,CD32,CD32,NM_021642.3:60,Immune Response,,,Transporter Functions,"CD molecules, Receptors involved in phagocytosis","FCG2, FCGR2A1, FCGR2, CD32, CD32A, IGFR2, CDw32"
+FCGR2B,CD32,CD32,NM_001002273.1:870,Immune Response,,,Regulation,"CD molecules, Regulation of immune response","FCG2, FCGR2, CD32, CD32B"
+FCGR3A,CD16,CD16,NM_000569.6:1644,Immune Response,Neutrophils,,Regulation,"CD molecules, Regulation of immune response","FCGR3, FCG3, CD16, CD16a"
+FEZ1,,FEZ1,NM_005103.4:426,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific",
+FLT3,CD135,FLT3,NM_004119.1:580,Immune Response,,,,CD molecules,"STK1, FLK2, CD135"
+FLT3LG,,FLT3LG,NM_001459.3:360,Immune Response - Cell Type specific,,,Cytokines,"Cell Type specific, Cytokines and receptors",
+FN1,,FN1,NM_212482.1:1776,Immune Response,,,Senescence,Senescence pathway,"MSF, CIG, LETS, GFND2, FINC"
+FOS,,c-fos,NM_005252.2:1475,Immune Response,,I,,Innate immune response,"c-fos, AP-1"
+FOXJ1,,FOXJ1,NM_001454.3:815,Immune Response - Cell Type specific,,H,,"Cell Type specific, Humoral immune response","FKHL13, HFH-4, HFH4"
+FOXP3,,FOXP3,NM_014009.3:1230,Immune Response - Cell Type specific,Treg,F,"Cytokines, T-Cell Functions","Cell Type specific, Cytokines and receptors, T-cell mediated immunity, Chronic inflammatory response","IPEX, JM2, XPID, AIID, PIDX, DIETER, SCURFIN"
+FPR2,,FPR2,NM_001462.3:1200,Immune Response - Cell Type specific,,F,,"Cell Type specific, Inflammatory response","FPRL1, LXA4R, HM63, FPRH2, FMLPX, FPR2A, FMLP-R-II, ALXR"
+FUT5,,FUT5,NM_002034.2:1726,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific",FUC-TV
+FUT7,,FUT7,NM_004479.3:1710,Immune Response,,,Leukocyte Functions,Leukocyte migration,
+FYN,,FYN,NM_002037.3:765,Immune Response,,,Transporter Functions,Phagyocytosis signal transduction,"SYN, SLK, MGC45350"
+G6PD,,G6PD,NM_000402.2:1155,HK,,,,,G6PD1
+GAGE1,,GAGE1,NM_001040663.2:1642,CT Antigen,,,,,CT4.1
+GATA3,,GATA3,NM_001002295.1:2835,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific",HDR
+GNLY,,GNLY,NM_006433.2:305,Immune Response - Cell Type specific,Cytotoxic cells,A,"Cytotoxicity, Pathogen Defense","Adaptive immune response, Cell Type specific, Cytotoxicity, Defense response to bacterium, Defense response to fungus","LAG2, NKG5, LAG-2, D2S69E, TLA519"
+GPATCH3,,GPATCH3,NM_022078.2:1685,HK,,,,,"GPATC3, FLJ12455"
+GPI,,GPI,NM_000175.2:1695,Immune Response,,H,,Humoral immune response,"AMF, NLK"
+GTF3C1,,GTF3C1,NM_001520.3:2904,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific",TFIIIC220
+GUSB,,GUSB,NM_000181.1:1350,HK,,,,,
+GZMA,,GZMA,NM_006144.2:155,Immune Response - Cell Type specific,Cytotoxic cells,A,"Cell Functions, Cytotoxicity","Adaptive immune response, Basic cell functions, Cell Type specific, Cytotoxicity","HFSP, CTLA3"
+GZMB,,GZMB,NM_004131.3:540,Immune Response - Cell Type specific,Cytotoxic cells,A,"Cell Functions, Cytotoxicity","Adaptive immune response, Basic cell functions, Cell Type specific, Cytotoxicity","CTLA1, CSPB, CCPI, CGL-1, CSP-B, CGL1, CTSGL1, HLP, SECT"
+GZMH,,GZMH,NM_033423.3:705,Immune Response - Cell Type specific,Cytotoxic cells,A,"Cell Functions, Cytotoxicity","Adaptive immune response, Basic cell functions, Cell Type specific, Cytotoxicity","CTSGL2, CGL-2, CCP-X, CTLA1, CSP-C"
+GZMK,,GZMK,NM_002104.2:700,Immune Response,,A;I,"Cell Functions, Cytotoxicity","Adaptive immune response, Basic cell functions, Cytotoxicity, Innate immune response","TRYP2, PRSS"
+GZMM,,MET1,NM_005317.2:669,Immune Response - Cell Type specific,,A;I,"Cell Functions, Cytotoxicity","Adaptive immune response, Basic cell functions, Cell Type specific, Cytotoxicity, Innate immune response","MET1, LMET1"
+HAMP,,HAMP,NM_021175.2:99,Immune Response,,I,,Innate immune response,"LEAP-1, HEPC, HFE2B, LEAP1"
+HAVCR2,,HAVCR2,NM_032782.3:955,Immune Response - Checkpoint,,,Cell Functions,Basic cell functions,"Tim-3, TIM3, FLJ14428, TIMD3"
+HCK,,HCK,NM_002110.2:260,Immune Response,,I,Leukocyte Functions,"Innate immune response, Leukocyte migration",JTK9
+HDAC3,,HDAC3,NM_003883.2:1455,HK,,,,,"RPD3, HD3, RPD3-2"
+HLA-A,,HLA-A,NM_002116.5:1000,Immune Response,,A,"Antigen Processing, Cytotoxicity, Regulation","Adaptive immune response, Antigen processing and presentation, Cytotoxicity, Regulation of immune response",
+HLA-B,,HLA-B,NM_005514.6:937,Immune Response,,A,"Antigen Processing, Cytotoxicity, Regulation","Adaptive immune response, Antigen processing and presentation, Cytotoxicity, Regulation of immune response",AS
+HLA-C,,HLA-C,NM_002117.4:895,Immune Response,,A,"Antigen Processing, Cytotoxicity, Regulation","Adaptive immune response, Antigen processing and presentation, Cytotoxicity, Regulation of immune response","HLA-JY3, D6S204, PSORS1"
+HLA-DMA,,HLA-DMA,NM_006120.3:380,Immune Response,,A,"Antigen Processing, Regulation","Adaptive immune response, Antigen processing and presentation, Positive regulation of immune response","D6S222E, RING6"
+HLA-DMB,,HLA-DMB,NM_002118.3:20,Immune Response,,A,Antigen Processing,"Adaptive immune response, Antigen processing and presentation","D6S221E, RING7"
+HLA-DOB,,HLA-DOB,NM_002120.3:230,Immune Response - Cell Type specific,,A,"Antigen Processing, Cytokines","Adaptive immune response, Antigen processing and presentation, Cell Type specific, Cytokines and receptors",
+HLA-DPA1,,HLA-DPA1,NM_033554.2:857,Immune Response,,A,Antigen Processing,"Adaptive immune response, Antigen processing and presentation",HLA-DP1A
+HLA-DPB1,,HLA-DPB1,NM_002121.4:931,Immune Response,,A,Antigen Processing,"Adaptive immune response, Antigen processing and presentation",HLA-DP1B
+HLA-DQA1,,HLA-DQA1,NM_002122.3:261,Immune Response,,A,Antigen Processing,"Adaptive immune response, Antigen processing and presentation","HLA-DQA, CELIAC1"
+HLA-DQB1,,HLA-DQB1,NM_002123.3:384,Immune Response,,A,Antigen Processing,"Adaptive immune response, Antigen processing and presentation","HLA-DQB, IDDM1, CELIAC1"
+HLA-DRA,,HLA-DRA,NM_019111.3:335,Immune Response,,A,Antigen Processing,"Adaptive immune response, Antigen processing and presentation",HLA-DRA1
+HLA-DRB3,,HLA-DRB3,NM_022555.3:698,Immune Response,,A,Antigen Processing,"Adaptive immune response, Antigen processing and presentation",HLA-DR3B
+HLA-DRB4,,HLA-DRB4,NM_021983.4:194,Immune Response,,A,Antigen Processing,"Adaptive immune response, Antigen processing and presentation","DR4, DR-4, DRB4, HLA-DR4B"
+HLA-E,,HLA-E,NM_005516.4:1204,Immune Response,,,Regulation,Regulation of immune response,
+HLA-G,,HLA-G,NM_002127.4:1180,Immune Response,,,Regulation,Regulation of immune response,
+HMGB1,,HMGB1,NM_002128.4:208,Immune Response,,F;I,Regulation,"Inflammatory response to antigenic stimulus, Innate immune response","HMG1, HMG3, SBP-1, DKFZp686A04236"
+HPRT1,,HPRT,NM_000194.1:240,HK,,,,,"HPRT, HGPRT"
+HRAS,,HRAS,NM_005343.2:396,Immune Response,,,Senescence,Senescence pathway,HRAS1
+HSD11B1,,HSD11B1,NM_181755.1:155,Immune Response - Cell Type specific,DC,,Cell Functions,"Basic cell functions, Cell Type specific","HSD11B, HSD11, SDR26C1"
+ICAM1,CD54,ICAM1,NM_000201.2:2253,Immune Response,,,"Adhesion, Regulation","Adhesion, CD molecules, Regulation of immune response","BB2, CD54"
+ICAM2,CD102,ICAM2,NM_000873.3:415,Immune Response,,,"Adhesion, Regulation","Adhesion, CD molecules, Regulation of immune response",CD102
+ICAM3,CD50,ICAM3,NM_002162.3:1225,Immune Response,,,"Adhesion, Regulation","Adhesion, CD molecules, Regulation of immune response","CDW50, ICAM-R, CD50"
+ICAM4,CD242,ICAM4,NM_001039132.1:463,Immune Response,,,"Adhesion, Regulation","Adhesion, CD molecules, Regulation of immune response","LW, CD242"
+ICOS,CD278,ICOS,NM_012092.2:640,Immune Response - Cell Type specific / Checkpoint,,A,Cell Functions,"Adaptive immune response, Basic cell functions, Cell Type specific, CD molecules","AILIM, CD278"
+ICOSLG,CD275,ICOSL,NM_015259.4:1190,Immune Response,,A,"Cell Functions, Regulation","Adaptive immune response, B-cell activation, CD molecules, Regulators of T-cell activation, T-cell proliferation","ICOSL, KIAA0653, GL50, B7-H2, B7RP-1, B7H2, B7RP1, ICOS-L, CD275"
+IDO1,,INDO,NM_002164.3:50,Immune Response - Cell Type specific,,F,"Cytokines, T-Cell Functions","Cell Type specific, Cytokines and receptors, Chronic inflammatory response, Th2 orientation, T-cell proliferation","IDO, INDO"
+IFI16,,IFI16,NM_005531.1:2255,Immune Response,,,Chemokines,Chemokines and receptors,"IFNGIP1, PYHIN2"
+IFI27,,P27,NM_005532.3:390,Immune Response,,,Chemokines,Chemokines and receptors,"P27, FAM14D"
+IFI35,,IFI35,NM_005533.3:415,Immune Response,,,Chemokines,Chemokines and receptors,IFP35
+IFIH1,,MDA5,NM_022168.2:185,Immune Response,,I,,Innate immune response,"MDA-5, Hlcd, MDA5, IDDM19"
+IFIT1,,IFIT1,NM_001548.3:1440,Immune Response,,,Chemokines,Chemokines and receptors,"G10P1, IFI56, IFNAI1, GARG-16"
+IFIT2,,IFIT2,NM_001547.4:1995,Immune Response,,,Chemokines,Chemokines and receptors,"IFI54, G10P2, IFI-54, ISG-54K, cig42, GARG-39"
+IFITM1,CD225,IFITM1,NM_003641.3:482,Immune Response,,I,Regulation,"CD molecules, Innate immune response, Regulation of immune response","IFI17, 9-27, CD225"
+IFITM2,,IFITM2,NM_006435.2:390,Immune Response,,I,,Innate immune response,1-8D
+IFNA1,,IFN-ALPHA,NM_024013.1:585,Immune Response,,I,Interleukins,"Innate immune response, Interleukins","IFNA@, IFL, IFN, IFN-ALPHA, IFNA13, IFN-alphaD"
+IFNA17,,IFNA17,NM_021268.2:291,Immune Response,,I,Interleukins,"Innate immune response, Interleukins","LEIF2C1, IFN-alphaI"
+IFNA2,,IFNA2,NM_000605.3:611,Immune Response,,I,Interleukins,"Innate immune response, Interleukins","IFNA, IFN-alphaA"
+IFNA7,,IFNA7,NM_021057.2:215,Immune Response,,I,Interleukins,"Innate immune response, Interleukins","IFNA-J, IFN-alphaJ"
+IFNA8,,IFNA8,NM_002170.3:604,Immune Response,,I,Interleukins,"Innate immune response, Interleukins",IFN-alphaB
+IFNAR1,,IFNAR1,NM_000629.2:3123,Immune Response,,,Pathogen Defense,Defense response to virus,"IFNAR, IFRC"
+IFNAR2,,IFNABR,NM_000874.3:631,Immune Response,,,Chemokines,Chemokines and receptors,IFNABR
+IFNB1,,IFNB,NM_002176.2:610,Immune Response,,A;H;I,,"Adaptive immune response, Humoral immune response, Innate immune response","IFNB, IFB, IFF"
+IFNG,,IFNG,NM_000619.2:970,Immune Response - Cell Type specific,,A;H,"Cytokines, Interleukins, Leukocyte Functions, Macrophage Functions, NK Cell Functions, T-Cell Functions","Adaptive immune response, Cell Type specific, CD8-positive, Cytokines and receptors, Humoral immune response, Interleukins, Th1 orientation, T-cell differentiation",
+IFNGR1,CD119,IFNGR1,NM_000416.1:1140,Immune Response,,I,Cell Functions,"Adaptive immune response, CD molecules, Innate immune response, Th1 orientation","IFNGR, CD119"
+IFNL1,,IL29,NM_172140.1:233,Immune Response,,,"Cytokines, Interleukins","Cytokines and receptors, Interleukins","IL29, IL-29"
+IFNL2,,IL28A,NM_172138.1:589,Immune Response,,,Chemokines,Chemokines and receptors,"IL28A, IL-28A"
+IGF1R,CD221,IGF-1,NM_000875.2:455,Immune Response,,,Senescence,"CD molecules, Senescence initiators","JTK13, CD221, IGFIR, MGC18216, IGFR"
+IGF2R,CD222,IGF2R,NM_000876.1:2605,Immune Response,,,,CD molecules,"CD222, MPRI, MPR1, CIMPR, M6P-R"
+IGLL1,CD179B,IGLL1,NM_020070.2:188,Immune Response,,,,CD molecules,"IGLL, IGVPB, IGL5, 14.1, CD179B"
+IKBKB,,IKK-beta,NM_001556.1:1995,Immune Response,,I,,Innate immune response,"IKK2, NFKBIKB, IKK-beta, IKKB"
+IKBKE,,IKBKE,NM_014002.2:2470,Immune Response,,I,,Innate immune response,"IKKE, IKK-i, KIAA0151"
+IKBKG,,IKK-gamma,NM_003639.2:470,Immune Response,,I,,Innate immune response,"IP2, IP1, IKK-gamma, NEMO, Fip3p, FIP-3, FIP3, ZC2HC9"
+IL10,,IL10,NM_000572.2:230,Immune Response,,,Interleukins,"Immunosuppression, Interleukins","CSIF, TGIF, IL10A, IL-10"
+IL10RA,CD210,IL10RA,NM_001558.2:150,Immune Response,,,Cytokines,"CD molecules, Cytokines and receptors","IL10R, HIL-10R, CDW210A, CD210a, CD210"
+IL11,,IL11,NM_000641.2:1145,Immune Response,,,"B-Cell Functions, Cytokines, Interleukins, T-Cell Functions","Anti-inflammatory cytokines, B-cell differentiation, Interleukins","IL-11, AGIF"
+IL11RA,,IL11RA,NM_147162.1:400,Immune Response,,,Chemokines,Chemokines and receptors,
+IL12A,,p35,NM_000882.2:775,Immune Response,,A,"Cytokines, Interleukins, NK Cell Functions, Regulation, T-Cell Functions","Adaptive immune response, Anti-inflammatory cytokines, Interleukins, NK cell activation, Regulators of Th1 and Th2 development, Th1 orientation, Th1 & Th2 differentiation, T-cell polarization","NKSF1, CLMF, IL-12A, p35, NFSK"
+IL12B,,IL12B,NM_002187.2:1435,Immune Response,,A,"Cytokines, Interleukins, NK Cell Functions, T-Cell Functions","Adaptive immune response, Anti-inflammatory cytokines, Cytokines and receptors, Interleukins, NK cell activation, Th1 orientation, Th1 & Th2 differentiation, T-cell differentiation, T-cell proliferation","NKSF2, CLMF, IL-12B, NKSF, CLMF2"
+IL12RB1,CD212,IL12RB1,NM_005535.1:225,Immune Response,,A,"NK Cell Functions, T-Cell Functions","Adaptive immune response, CD molecules, T-cell polarization, Th1 & Th2 differentiation, Th1 orientation","IL12RB, CD212"
+IL12RB2,,IL12RB2,NM_001559.2:1315,Immune Response - Cell Type specific,,A,"Cytokines, NK Cell Functions, T-Cell Functions","Adaptive immune response, Cell Type specific, Cytokines and receptors, Th1 orientation",
+IL13,,IL13,NM_002188.2:516,Immune Response,,F,"Cytokines, Interleukins, T-Cell Functions","Anti-inflammatory cytokines, Cytokines and receptors, Interleukins, Macrophage activation, Regulators of Th1 and Th2 development, Th2 orientation","P600, IL-13, ALRH, BHR1, MGC116786, MGC116788, MGC116789"
+IL13RA1,CD213a1,IL13RA1,NM_001560.2:1230,Immune Response,,,"Cytokines, T-Cell Functions","CD molecules, Cytokines and receptors, Th2 orientation","IL-13Ra, NR4, CD213a1"
+IL13RA2,CD213a2,IL-13R,NM_000640.2:400,Immune Response,,,"Chemokines, T-Cell Functions","CD molecules, Chemokines and receptors, Th2 orientation","IL-13R, IL13BP, CD213a2, CT19"
+IL15,,IL15,NM_172174.1:1685,Immune Response,,A,"Interleukins, Regulation","Adaptive immune response, Interleukins, Positive regulation of immune response","IL-15, MGC9721"
+IL15RA,CD215,IL15RA,NM_002189.2:505,Immune Response,,A,Chemokines,"Adaptive immune response, CD molecules, Chemokines and receptors","CD215, IL-15RA"
+IL16,,IL16,NM_004513.4:1262,Immune Response,,,Interleukins,Interleukins,"LCF, IL-16, prIL-16, HsT19289, FLJ42735, FLJ16806"
+IL17A,,IL17A,NM_002190.2:240,Immune Response - Cell Type specific,,F,"Cytokines, Interleukins","Cell Type specific, Cytokines and receptors, Inflammatory response, Interleukins","CTLA8, IL17, IL-17A, IL-17"
+IL17B,,IL17B,NM_014443.2:177,Immune Response,,,"Chemokines, Interleukins","Chemokines and receptors, Interleukins","IL-17B, ZCYTO7, IL-20, MGC138900, MGC138901, NIRF"
+IL17F,,IL17F,NM_052872.3:210,Immune Response,,,Interleukins,Interleukins,"IL-17F, ML-1, ML1"
+IL17RA,CD217,IL17RA,NM_014339.6:482,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific, CD molecules","IL17R, hIL-17R, IL-17RA, CDw217, CD217"
+IL17RB,,IL17RB,NM_018725.3:225,Immune Response,,,Chemokines,Chemokines and receptors,"IL17BR, IL17RH1, EVI27, CRL4"
+IL18,,IL18,NM_001562.2:48,Immune Response,,,"Interleukins, NK Cell Functions, T-Cell Functions","Interleukins, Th1 orientation","IGIF, IL1F4, IL-1g, IL-18"
+IL18R1,CD218a,IL18R1,NM_003855.2:2025,Immune Response,,I,"NK Cell Functions, T-Cell Functions","CD molecules, Innate immune response, Th1 orientation","IL1RRP, IL-1Rrp, CD218a"
+IL18RAP,CD218b,IL18RAP,NM_003853.2:2412,Immune Response,,I,"NK Cell Functions, T-Cell Functions","CD molecules, Innate immune response, Th1 orientation","AcPL, CD218b"
+IL19,,IL19,NM_013371.3:1030,Immune Response,,,"Chemokines, Interleukins","Chemokines and receptors, Interleukins","IL-19, MDA1, ZMDA1, IL-10C, NG.1"
+IL1A,,IL1-ALPHA,NM_000575.3:1085,Immune Response,,F;I,"Cytokines, Interleukins","Acute-phase response, Cytokines and receptors, Inflammatory response, Innate immune response, Interleukins","IL1, IL1F1, IL-1A, IL1-ALPHA"
+IL1B,,IL1-BETA,NM_000576.2:840,Immune Response,,F;I,"Chemokines, Cytokines, Interleukins, Pathogen Defense, Regulation","Innate immune response, Chemokines and receptors, Cytokines and receptors, Defense response to virus, Interleukins, Regulation of inflammatory response","IL1F2, IL-1B, IL1-BETA"
+IL1R1,CD121A,IL1R1,NM_000877.2:4295,Immune Response,,I,,"CD molecules, Innate immune response","IL1R, IL1RA, D2S1473, CD121A"
+IL1R2,CD121b,IL1R2,NM_173343.1:113,Immune Response,,,Cytokines,"CD molecules, Cytokines and receptors","IL1RB, CD121b"
+IL1RAP,,IL1RAP,NM_002182.2:460,Immune Response,,I,,Innate immune response,"IL-1RAcP, IL1R3, C3orf13"
+IL1RAPL2,,IL1RAPL2,NM_017416.1:1800,Immune Response,,I,,Innate immune response,"IL-1R9, TIGIRR-1, IL1RAPL-2, IL1R9"
+IL1RL1,,IL1RL1,NM_016232.4:700,Immune Response,,I,,Innate immune response,"ST2, FIT-1, ST2L, ST2V, DER4, T1, IL33R"
+IL1RL2,,IL1RL2,NM_003854.2:595,Immune Response,,I,,Innate immune response,"IL1R-rp2, IL1RRP2"
+IL1RN,,IL1RN,NM_000577.3:480,Immune Response,,,"Cytokines, Interleukins","Acute-phase response, Cytokines and receptors, Interleukins","IL1RA, ICIL-1RA, IL1F3, IRAP, IL-1RN, MGC10430"
+IL2,,IL2,NM_000586.2:300,Immune Response,,A,"Cytokines, Regulation, T-Cell Functions","Adaptive immune response, Anti-inflammatory cytokines, B-cell activation, Cytokines and receptors, Innate immune response, Interleukins, Th1 & Th2 differentiation, T-cell differentiation, T-cell polarization, T-cell regulators","IL-2, TCGF"
+IL21,,IL21,NM_021803.2:65,Immune Response,,A,"Cytokines, Interleukins","Adaptive immune response, Cytokines and receptors, Interleukins","Za11, IL-21"
+IL21R,CD360,IL21R,NM_021798.2:2080,Immune Response - Cell Type specific,NK CD56dim cells,A,Cell Functions,"Adaptive immune response, Basic cell functions, Cell Type specific, CD molecules",CD360
+IL22,,IL22,NM_020525.4:319,Immune Response,,F,Cytokines,"Acute-phase response, Anti-inflammatory cytokines, Interleukins","ILTIF, IL-21, zcyto18, IL-TIF, IL-D110, TIFa, TIFIL-23, IL-22, MGC79382, MGC79384"
+IL22RA1,,IL22RA1,NM_021258.2:2524,Immune Response,,,Chemokines,Chemokines and receptors,"IL22R, CRF2-9"
+IL22RA2,,IL22RA2,NM_181310.1:290,Immune Response,,,Chemokines,Chemokines and receptors,"CRF2-S1, IL-22BP"
+IL23A,,IL23A,NM_016584.2:411,Immune Response,,I,Interleukins,"Innate immune response, Interleukins","SGRF, IL23P19, IL-23, IL-23A, P19"
+IL23R,,IL23R,NM_144701.2:710,Immune Response,,,Cytokines,Cytokines and receptors,IL-23R
+IL24,,IL24,NM_181339.1:1016,Immune Response,,F,"Cytokines, Interleukins","Anti-inflammatory cytokines, Interleukins","ST16, mda-7, IL10B, Mob-5, C49A, FISP, IL-24"
+IL25,,IL25,NM_022789.2:1027,Immune Response,,F,Interleukins,"Inflammatory response to antigenic stimulus, Interleukins","IL17E, IL-25, IL-17E"
+IL26,,IL26,NM_018402.1:80,Immune Response - Cell Type specific,,,"Cytokines, Interleukins","Cell Type specific, Cytokines and receptors, Interleukins","AK155, IL-26"
+IL27,,p28,NM_145659.3:143,Immune Response,,I,Interleukins,"Innate immune response, Interleukins","IL30, IL-27, p28, IL27p28, IL-27A, IL27A, MGC71873"
+IL2RA,CD25,IL2R,NM_000417.1:1000,Immune Response,,A;F,Regulation,"Adaptive immune response, CD molecules, Inflammatory response to antigenic stimulus, Negative regulation of immune response","IL2R, IDDM10, CD25"
+IL2RB,CD122,IL2RB,NM_000878.2:1980,Immune Response,,A,Cytokines,"Adaptive immune response, CD molecules, Cytokines and receptors","IL15RB, CD122"
+IL2RG,CD132,IL2RG,NM_000206.1:595,Immune Response,,A,Chemokines,"Adaptive immune response, CD molecules, Chemokines and receptors","SCIDX1, IMD4, CIDX, CD132"
+IL3,,IL3,NM_000588.3:130,Immune Response,,,"Regulation, T-Cell Functions","Interleukins, Regulators of Th1 and Th2 development","IL-3, MULTI-CSF, MCGF, MGC79398, MGC79399"
+IL32,,IL32,NM_004221.4:358,Immune Response,,,"Chemokines, Interleukins","Chemokines and receptors, Interleukins","NK4, TAIF, TAIFb, TAIFd"
+IL34,,IL34,NM_152456.1:860,Immune Response,,I,Interleukins,"Innate immune response, Interleukins","C16orf77, MGC34647, IL-34"
+IL3RA,CD123,CD123,NM_002183.2:745,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific, CD molecules",CD123
+IL4,,IL4,NM_000589.2:625,Immune Response,,,"Interleukins, Regulation, T-Cell Functions","Interleukins, Regulation of immune response, Th2 orientation","BSF1, IL-4, BCGF1, BCGF-1, MGC79402"
+IL4R,CD124,CD124,NM_000418.2:705,Immune Response,,,"Cytokines, T-Cell Functions","CD molecules, Cytokines and receptors, Th1 & Th2 differentiation, Th2 orientation, T-cell polarization",CD124
+IL5,,IL5,NM_000879.2:105,Immune Response,,,"Cytokines, Interleukins, Regulation, T-Cell Functions","Cytokines and receptors, Interleukins, Regulators of Th1 and Th2 development, Th2 orientation, T-cell polarization","IL-5, EDF, TRF"
+IL5RA,CD125,IL5RA,NM_000564.3:210,Immune Response - Cell Type specific,,,Cytokines,"Cell Type specific, CD molecules, Cytokines and receptors","IL5R, CDw125, CD125"
+IL6,,IL6,NM_000600.1:220,Immune Response,,H,Interleukins,"Humoral immune response, Interleukins","IFNB2, IL-6, BSF2, HGF, HSF"
+IL6R,CD126,CD126,NM_000565.2:993,Immune Response,,,Cytokines,"Acute-phase response, CD molecules, Cytokines and receptors",CD126
+IL6ST,CD130,GP130,NM_002184.2:2505,Immune Response,,F,Chemokines,"CD molecules, Inflammatory response, Chemokines and receptors","GP130, CD130"
+IL7,,IL7,NM_000880.2:38,Immune Response,,A;H,Interleukins,"Adaptive immune response, Humoral immune response, Interleukins",IL-7
+IL7R,CD127,CD127,NM_002185.2:1610,Immune Response,,A,Cytokines,"Adaptive immune response, CD molecules, Cytokines and receptors",CD127
+IL8,,IL-8,NM_000584.2:25,Immune Response,,F;I,"Chemokines, Cytokines, Interleukins, Pathogen Defense, Regulation","Chemokines and receptors, Cytokines and receptors, Defense response to virus, Innate immune response, Interleukins, Regulation of inflammatory response","IL8RB, CMKAR2, CD182"
+IL9,,P40,NM_000590.1:300,Immune Response,,F,Cytokines,"Cytokines and receptors, Interleukins, Regulation of inflammatory response","IL-9, HP40, P40"
+ILF3,,ILF3,NM_001137673.1:730,Immune Response,,,Chemokines,Chemokines and receptors,"NF90, MPHOSPH4, MPP4, DRBP76, NFAR-1"
+INPP5D,,INPP5D,NM_005541.3:4075,Immune Response,,,Regulation,Negative regulation of immune response,"SHIP, hp51CN"
+IRAK1,,IRAK,NM_001569.3:1995,Immune Response,,I,,Innate immune response,"IRAK, pelle"
+IRAK2,,IRAK2,NM_001570.3:1285,Immune Response,,I,,Innate immune response,
+IRAK4,,IRAK4,NM_016123.1:2175,Immune Response,,I,,Innate immune response,NY-REN-64
+IRF1,,IRF1,NM_002198.1:510,Immune Response,,,"Chemokines, NK Cell Functions, Regulation, T-Cell Functions","Cytokines and receptors, Th1 orientation, Transcription factors, Transcriptional regulators",MAR
+IRF2,,IRF2,NM_002199.3:1624,Immune Response,,,"Chemokines, Regulation","Cytokines and receptors, Transcription factors, Transcriptional regulators",
+IRF3,,IRF3,NM_001571.5:1303,Immune Response,,I,,Innate immune response,
+IRF4,,IRF4,NM_002460.1:325,Immune Response,,,"B-Cell Functions, Regulation, T-Cell Functions","Regulators of T-cell activation, Transcription factors, Transcriptional regulators, T-cell differentiation","MUM1, LSIRF"
+IRF5,,IRF5,NM_002200.3:1845,Immune Response,,,Senescence,Senescence initiators interferon related,
+IRF7,,IRF7,NM_001572.3:1763,Immune Response,,I,,Innate immune response,
+IRF8,,IRF8,NM_002163.2:253,Immune Response,,,"Chemokines, Regulation","Cytokines and receptors, Transcription factors, Transcriptional regulators","ICSBP1, IRF-8, ICSBP"
+IRGM,,IRGM,NM_001145805.1:1412,Immune Response,,I,,Innate immune response,"IRGM1, LRG47, LRG-47, IFI1"
+ISG15,,ISG15,NM_005101.3:305,Immune Response,,I,,Innate immune response,"G1P2, IFI15, UCRP"
+ISG20,,ISG20,NM_002201.4:358,Immune Response,,I,,Innate immune response,"HEM45, CD25"
+ITCH,,ITCH,NM_001257138.1:438,Immune Response,,I,,Innate immune response,AIP4
+ITGA1,CD49a,CD49a,NM_181501.1:1875,Immune Response,,,"Adhesion, NK Cell Functions, T-Cell Functions","Adhesion, CD molecules, T-cell anergy","VLA1, CD49a"
+ITGA2,CD49B,CD49b,NM_002203.2:475,Immune Response,,,Adhesion,"Adhesion, CD molecules","CD49B, CD49b"
+ITGA2B,CD41,CD41,NM_000419.3:740,Immune Response,,,Adhesion,"Adhesion, CD molecules","GP2B, CD41B, CD41, PPP1R93"
+ITGA4,CD49D,CD49D,NM_000885.4:975,Immune Response,,,"Adhesion, Regulation","Adhesion, CD molecules, Regulation of immune response","CD49D, CD49d"
+ITGA5,CD49e,CD49e,NM_002205.2:925,Immune Response,,I,Adhesion,"Adhesion, CD molecules, Innate immune response","FNRA, CD49e"
+ITGA6,CD49f,CD49f,NM_000210.1:3065,Immune Response,,,Adhesion,"Adhesion, CD molecules",CD49f
+ITGAE,CD103,CD103,NM_002208.4:3405,Immune Response,,,Adhesion,"Adhesion, CD molecules","CD103, HUMINAE"
+ITGAL,CD11A,CD11A,NM_002209.2:3905,Immune Response,,,"Adhesion, Regulation","Adhesion, CD molecules, Regulation of immune response","CD11A, LFA-1"
+ITGAM,CD11B,CD11b,NM_000632.3:515,Immune Response,,I,"Adhesion, Transporter Functions","Adhesion, CD molecules, Innate immune response, Receptors involved in phagocytosis","CR3A, CD11B, MAC-1, CD11b"
+ITGAX,CD11C,CD11c,NM_000887.3:700,Immune Response,,I,Adhesion,"Adhesion, CD molecules, Innate immune response","CD11C, CD11c"
+ITGB1,CD29,CD29,NM_033666.2:2000,Immune Response,,,"Adhesion, Regulation","Adhesion, CD molecules, Regulation of immune response","FNRB, MSK12, MDF2, CD29, GPIIA"
+ITGB2,CD18,CD18,NM_000211.2:520,Immune Response,,,"Adhesion, Regulation","Adhesion, CD molecules, Regulation of immune response","CD18, MFI7, LFA-1, MAC-1"
+ITGB3,CD61,CD61,NM_000212.2:4485,Immune Response,,,Adhesion,"Adhesion, CD molecules","GP3A, CD61, GPIIIa"
+ITGB4,CD104,CD104,NM_001005731.1:4151,Immune Response,,,Adhesion,"Adhesion, CD molecules",CD104
+ITK,,ITK,NM_005546.3:3430,Immune Response,,A,,Adaptive immune response,"EMT, PSCTK2, LYK"
+JAK1,,JAK1,NM_002227.1:285,Immune Response,,I,"Cytokines, Regulation","Cytokines and receptors, Innate immune response, Positive regulation of immune response","JAK1B, JAK1A, JTK3"
+JAK2,,JAK2,NM_004972.2:455,Immune Response,,I,"Cytokines, Regulation","Cytokines and receptors, Innate immune response, Positive regulation of immune response",JTK10
+JAK3,,JAK3,NM_000215.2:1715,Immune Response,,I,"Cytokines, Regulation","Cytokines and receptors, Innate immune response, Positive regulation of immune response","L-JAK, JAKL, LJAK, JAK3_HUMAN, JAK-3"
+JAM3,,JAM3,NM_032801.3:890,Immune Response,,A,,Adaptive immune response,"JAM-C, JAMC"
+KIR_Activating_Subgroup_1,CD158E2,KIR3DS1,NM_001083539.1:1146,Immune Response,,,"NK Cell Functions, Regulation","CD molecules, NK cell functions, Regulation of immune response",nkat10
+KIR_Activating_Subgroup_2,CD158H,KIR2DS1,NM_014512.1:718,Immune Response,,,"NK Cell Functions, Regulation","CD molecules, NK cell functions, Regulation of immune response","CD158H, EB6ActI, EB6ActII"
+KIR_Inhibiting_Subgroup_1,CD158A,KIR2DL1,NM_014218.2:872,Immune Response,,,"NK Cell Functions, Regulation","CD molecules, NK cell functions, Regulation of immune response","cl-42, nkat1, 47.11, p58.1, CD158A"
+KIR_Inhibiting_Subgroup_2,CD158B2,KIR2DL3,NM_014511.3:592,Immune Response,NK CD56dim cells,,"NK Cell Functions, Regulation","CD molecules, NK cell functions, Regulation of immune response","cl-6, nkat2, nkat2a, nkat2b, p58, CD158B2"
+KIR3DL1,CD158E1,KIR3DL1,NM_013289.2:1691,Immune Response - Checkpoint,NK CD56dim cells,,"NK Cell Functions, Regulation","CD molecules, NK cell functions, Regulation of immune response","KIR, cl-2, NKB1, cl-11, nkat3, NKB1B, AMB11, CD158e1/2, CD158E1, CD158e2"
+KIR3DL2,CD158K,KIR3DL2,NM_006737.2:884,Immune Response,NK CD56dim cells,,"NK Cell Functions, Regulation","CD molecules, NK cell functions, Regulation of immune response","cl-5, nkat4, nkat4a, nkat4b, CD158K"
+KIR3DL3,CD158z,KIR3DL3,NM_153443.3:539,Immune Response,,,"NK Cell Functions, Regulation","CD molecules, NK cell functions, Regulation of immune response","KIRC1, KIR3DL7, KIR44, CD158z"
+KIT,CD117,KIT,NM_000222.2:2644,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific, CD molecules","PBT, CD117, SCFR, C-Kit"
+KLRB1,CD161,CD161,NM_002258.2:85,Immune Response,Cytotoxic cells,F,"Chemokines, NK Cell Functions","CD molecules, Chemokines and receptors, Inflammatory response, NK cell functions","NKR, CD161, NKR-P1, NKR-P1A, hNKR-P1A, CLEC5B"
+KLRC1,CD159a,KLRC1,NM_002259.3:335,Immune Response,,,"NK Cell Functions, Regulation","CD molecules, NK cell functions, Regulation of immune response","NKG2, NKG2-A, NKG2-B, CD159a"
+KLRC2,CD159c,KLRC2,NM_002260.3:942,Immune Response,,,NK Cell Functions,"CD molecules, NK cell functions","NKG2-C, CD159c"
+KLRD1,CD94,CD94,NM_002262.3:542,Immune Response - Cell Type specific,Cytotoxic cells,,"NK Cell Functions, Regulation","Cell Type specific, NK cell functions, Regulation of immune response",CD94
+KLRF1,,NKp80,NM_016523.1:275,Immune Response - Cell Type specific,,,"Cell Functions, NK Cell Functions","Basic cell functions, Cell Type specific, NK cell functions","CLEC5C, NKp80"
+KLRG1,,KLRG1,NM_005810.3:65,Immune Response,,I,"NK Cell Functions, Regulation","Innate immune response, NK cell functions, Regulation of immune response","MAFA, 2F1, MAFA-L, CLEC15A"
+KLRK1,CD314,KLRK1,NM_007360.3:522,Immune Response,Cytotoxic cells,,"NK Cell Functions, Regulation","CD molecules, NK cell functions, Regulation of immune response","D12S2489E, NKG2D, KLR, NKG2-D, CD314"
+LAG3,CD223,CD223,NM_002286.5:1735,Immune Response - Checkpoint,Exhausted CD8,A,"Regulation, T-Cell Functions","Adaptive immune response, CD molecules, Negative regulation of immune response, T-cell activation",CD223
+LAIR2,CD306,LAIR2,NM_002288.3:524,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific, CD molecules",CD306
+LAMP1,CD107a,LAMP1,NM_005561.3:2070,Immune Response,,,Transporter Functions,"Autophagy induction by intracellular pathogens, CD molecules, Genes linking autophagosome to lysosome",CD107a
+LAMP2,CD107b,LAMP2,NM_001122606.1:46,Immune Response,,,,CD molecules,CD107b
+LAMP3,CD208,LAMP3,NM_014398.3:1400,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific, CD molecules","LAMP, TSC403, DC-LAMP, DCLAMP, CD208"
+LBP,,LBP,NM_004139.2:792,Immune Response,,I,Macrophage Functions,"Innate immune response, Macrophage activation",BPIFD2
+LCK,,LCK,NM_005356.2:1260,Immune Response,,,"Regulation, T-Cell Functions",Regulators of T-cell activation,
+LCN2,,LCN2,NM_005564.3:325,Immune Response,,I,,Innate immune response,"NGAL, 24p3"
+LCP1,,plastin-2,NM_002298.4:3195,Immune Response,,,"Leukocyte Functions, Macrophage Functions, T-Cell Functions",T-cell activation,"PLS2, CP64, L-PLASTIN, LC64P"
+LGALS3,,LGALS3,NM_001177388.1:495,Immune Response,,I,,Innate immune response,"LGALS2, MAC-2, GALIG"
+LIF,,LIF,NM_002309.3:1240,Immune Response,,,Cell Functions,Basic cell functions,"CDF, DIA, HILDA"
+LILRA1,CD85i,LILRA1,NM_006863.1:1719,Immune Response,,,Regulation,"CD molecules, Regulation of immune response","LIR-6, CD85i, LIR6"
+LILRA4,CD85g,LILRA4,NM_012276.3:1577,Immune Response,,I,,"CD molecules, Innate immune response","ILT7, CD85g"
+LILRA5,CD85,LILRA5,NM_181879.2:545,Immune Response,,I,,"CD molecules, Innate immune response","LILRB7, ILT11, LIR9, CD85, CD85f"
+LILRB1,CD85,LILRB1,NM_001081637.1:2332,Immune Response,,,"NK Cell Functions, Regulation, T-Cell Functions","CD molecules, Regulation of immune response, T-cell proliferation","LIR-1, ILT2, MIR-7, CD85, LIR1, CD85j"
+LILRB2,CD85d,LILRB2,NM_005874.1:595,Immune Response,,,Regulation,"CD molecules, Regulation of immune response","LIR-2, ILT4, MIR-10, LIR2, CD85d, MIR10"
+LILRB3,CD85a,LILRB3,NM_006864.2:2235,Immune Response,,,Regulation,"CD molecules, Regulation of immune response","LIR-3, HL9, ILT5, LIR3, CD85a"
+LRP1,CD91,LRP1,NM_002332.2:4240,Immune Response,,,,CD molecules,"APR, A2MR, LRP, CD91, LRP1A, APOER"
+LRRN3,,LRRN3,NM_001099660.1:2940,Immune Response,,,,CD molecules,"NLRR3, FLJ11129, FIGLER5"
+LTA,,LTA,NM_000595.2:885,Immune Response - Cell Type specific,,F;H,Chemokines,"Cell Type specific, Chronic inflammatory response to antigenic stimulus, Cytokines and receptors, Humoral immune response","TNFB, TNFSF1, LT"
+LTB,,LTB,NM_002341.1:330,Immune Response,,,"Cytokines, TNF Superfamily","Cytokines and receptors, TNF superfamily members and their receptors","TNFC, p33, TNFSF3"
+LTBR,,LTBR,NM_002342.1:1435,Immune Response,,,Chemokines,Chemokines and receptors,"D12S370, TNFCR, TNFR-RP, TNFR2-RP, TNF-R-III, TNFRSF3"
+LTF,,LTF,NM_002343.2:590,Immune Response,,H,,Humoral immune response,HLF2
+LTK,,LTK,NM_001135685.1:2418,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific",TYK1
+LY86,,MD-1,NM_004271.3:255,Immune Response,,H;I,,"Innate immune response, Humoral immune response","MD-1, dJ80N2.1"
+LY9,CD229,LY9,NM_001033667.1:260,Immune Response,,A,,"Adaptive immune response, CD molecules","CD229, mLY9, SLAMF3, hly9"
+LY96,,MD-2,NM_015364.2:360,Immune Response,,I,,Innate immune response,MD-2
+LYN,,LYN,NM_002350.1:1285,Immune Response,,I,Regulation,"Negative regulation of immune response, Innate immune response",JTK8
+MAF,,MAF,NM_005360.4:888,Immune Response - Cell Type specific,,,"Cell Functions, T-Cell Functions","Basic cell functions, Cell Type specific, Th2 orientation",c-MAF
+MAGEA1,,MAGEA1,NM_004988.4:476,CT Antigen,,,,,"MAGE1, MGC9326, CT1.1"
+MAGEA12,,MAGEA12,NM_001166386.1:567,CT Antigen,,,,,"MAGE12, CT1.12"
+MAGEA3,,MAGEA3,NM_005362.3:849,CT Antigen,,,,,"MAGE3, HYPD, HIP8, MGC14613, CT1.3"
+MAGEA4,,MAGEA4,NM_001011548.1:778,CT Antigen,,,,,"MAGE4, MAGE4A, MAGE4B, MAGE-41, MAGE-X2, MGC21336, CT1.4"
+MAGEB2,,MAGEB2,NM_002364.4:1026,CT Antigen,,,,,"DAM6, MAGE-XP-2, MGC26438, CT3.2"
+MAGEC1,,MAGEC1,NM_005462.4:2920,CT Antigen,,,,,"MAGE-C1, CT7, MGC39366, CT7.1"
+MAGEC2,,MAGEC2,NM_016249.3:860,CT Antigen,,,,,"MAGEE1, CT10, MAGE-C2"
+MAP2K1,,MAP2K1,NM_002755.2:970,Immune Response,,I,,Innate immune response,"PRKMK1, MEK1, MAPKK1"
+MAP2K2,,MAP2K2,NM_030662.2:1325,Immune Response,,I,,Innate immune response,"PRKMK2, MEK2"
+MAP2K4,,MAP2K4,NM_003010.2:2830,Immune Response,,I,,Innate immune response,"SERK1, MEK4, JNKK1, PRKMK4, MKK4"
+MAP3K1,,MAP3K1,NM_005921.1:2525,Immune Response,,I,,Innate immune response,"MEKK1, MEKK, MAPKKK1"
+MAP3K5,,MAPKKK5,NM_005923.3:1760,Immune Response,,I,,Innate immune response,"MEKK5, MAPKKK5, ASK1"
+MAP3K7,,MAP3K7,NM_145333.1:670,Immune Response,,I,,Innate immune response,"TAK1, MEKK7"
+MAP4K2,,MAP4K2,NM_004579.2:1610,Immune Response,,I,,Innate immune response,"RAB8IP, GCK, BL44"
+MAPK1,,MAPK1,NM_138957.2:430,Immune Response,,I,,Innate immune response,"PRKM2, PRKM1, ERK, ERK2, p41mapk, MAPK2"
+MAPK11,,SAPK2,NM_002751.5:1310,Immune Response,,I,,Innate immune response,"PRKM11, p38-2, p38Beta, SAPK2"
+MAPK14,,MAPK14,NM_001315.1:450,Immune Response,,I,,Innate immune response,"CSPB1, CSBP1, CSBP2, PRKM14, p38, Mxi2, PRKM15"
+MAPK3,,MAPK3,NM_001040056.1:580,Immune Response,,I,,Innate immune response,"PRKM3, ERK1, p44mapk, p44erk1"
+MAPK8,,JNK1,NM_002750.2:945,Immune Response,,I,,Innate immune response,"PRKM8, JNK, JNK1, SAPK1"
+MAPKAPK2,,MAPKAPK2,NM_004759.3:710,Immune Response,,I,,Innate immune response,
+MARCO,,MARCO,NM_006770.3:1434,Immune Response - Cell Type specific,,I,,"Cell Type specific, Innate immune response",SCARA2
+MASP1,,MASP,NM_139125.3:35,Immune Response,,I,,Innate immune response,"CRARF, PRSS5, MASP"
+MASP2,,MASP2,NM_139208.1:330,Immune Response,,I,,Innate immune response,MASP1P1
+MAVS,,MAVS,NM_020746.3:3460,Immune Response,,I,,Innate immune response,"VISA, KIAA1271, IPS-1, Cardif"
+MBL2,,MBL,NM_000242.2:1756,Immune Response,,I,,Innate immune response,"MBL, COLEC1"
+MCAM,CD146,CD146,NM_006500.2:1515,Immune Response,,,Adhesion,"Adhesion, CD molecules","MUC18, CD146"
+MEF2C,,MEF2C,NM_002397.3:2445,Immune Response,,H,,Humoral immune response,
+MEFV,,MEFV,NM_000243.2:1162,Immune Response,,I,,Innate immune response,"MEF, FMF, TRIM20"
+MERTK,,MERTK,NM_006343.2:665,Immune Response,,,Transporter Functions,Phagyocytosis signal transduction,"mer, RP38"
+MFGE8,,MFGE8,NM_001114614.1:328,Immune Response,,,Transporter Functions,Receptors involved in phagocytosis,"SPAG10, SED1, EDIL1, BA46, OAcGD3S, HsT19888, MFG-E8, hP47"
+MICA,,MICA,NM_000247.1:550,Immune Response,,,Regulation,"Immune response to tumor cell, Regulation of immune response",PERB11.1
+MICB,,MICB,NM_005931.3:1387,Immune Response,,,Regulation,Regulation of immune response,PERB11.2
+MIF,,MIF,NM_002415.1:319,Immune Response,,I,,Innate immune response,"GLIF, GIF"
+MME,CD10,CD10,NM_000902.2:5059,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific, CD molecules","CALLA, CD10, NEP"
+MNX1,,HLXB9,NM_005515.3:1680,Immune Response,,H,,Humoral immune response,"HLXB9, HB9, HOXHB9, SCRA1"
+MPPED1,,MPPED1,NM_001044370.1:1486,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific","C22orf1, 239AB, FAM1A"
+MR1,,MR1,NM_001531.2:7695,Immune Response,,,Antigen Processing,Antigen processing and presentation,HLALS
+MRC1,CD206,MRC1,NM_002438.2:525,Immune Response,,,,CD molecules,"MRC1L1, CLEC13D, CD206, bA541I19.1, CLEC13DL"
+MRPS5,,MRPS5,NM_031902.3:390,HK,,,,,"MRP-S5, S5mt"
+MS4A1,CD20,CD20,NM_152866.2:620,Immune Response - Cell Type specific,B-cells,H,B-Cell Functions,"Basic cell functions, Cell Type specific, CD molecules, Humoral immune response","CD20, B1, Bp35, MS4A2"
+MS4A2,,MS4A2,NM_000139.3:661,Immune Response - Cell Type specific,Mast cells,F;H,Chemokines,"Cell Type specific, Humoral immune response, Inflammatory response","FCER1B, IGER, APY, MS4A1"
+MSR1,CD204,MSR1,NM_002445.3:326,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific, CD molecules","SCARA1, CD204"
+MST1R,CD136,MST1R,NM_002447.1:3300,Immune Response,,I,,"CD molecules, Innate immune response","RON, PTK8, CDw136, CD136"
+MTMR14,,MTMR14,NM_022485.3:720,HK,,,,,"C3orf29, FLJ22405, FLJ90311, hJumpy, hEDTP"
+MUC1,CD227,MUC1,NM_001018017.1:725,Immune Response,,,,CD molecules,"PUM, MCKD1, CD227, PEM, ADMCKD, ADMCKD1, MCKD, MCD"
+MX1,,MX1,NM_002462.2:1485,Immune Response,,I,,Innate immune response,"IFI-78K, MxA"
+MYD88,,MYD88,NM_002468.3:2145,Immune Response,,I,TLR,"Innate immune response, Toll-like receptor",
+NCAM1,CD56,NCAM,NM_000615.5:1620,Immune Response,,,,CD molecules,"NCAM, CD56"
+NCF4,,NCF4,NM_000631.4:210,Immune Response,,I,,Innate immune response,"p40phox, SH3PXD4"
+NCR1,CD335,NKP46,NM_004829.5:602,Immune Response - Cell Type specific,NK cells,,"Cell Functions, NK Cell Functions","Basic cell functions, Cell Type specific, CD molecules, NK cell functions","LY94, NK-p46, NKP46, CD335"
+NEFL,,NEFL,NM_006158.3:3300,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific","NFL, CMT1F, CMT2E, NF68, PPP1R110"
+NFATC1,,NFATC1,NM_172389.1:1984,Immune Response,,,Regulation,"Transcription factors, Transcriptional regulators","NF-ATC, NFATc, NFAT2"
+NFATC2,,NFATC2,NM_012340.3:1815,Immune Response,,,Regulation,"Transcription factors, Transcriptional regulators","NF-ATP, NFATp, NFAT1"
+NFATC3,,NFATC3,NM_004555.2:2190,Immune Response,,,Regulation,Transcriptional regulators,"NFAT4, NFATX"
+NFATC4,,NFATC4,NM_001136022.2:2296,Immune Response - Cell Type specific,,F,,"Cell Type specific, Inflammatory response",NFAT3
+NFKB1,,NFKB1,NM_003998.2:1675,Immune Response,,I,,Innate immune response,"KBF1, p105, NFKB-p50, p50, NF-kappaB, NFkappaB, NF-kB1"
+NFKB2,,NFKB2,NM_002502.2:825,Immune Response,,I,,Innate immune response,"LYT-10, p52, p105, NF-kB2"
+NFKBIA,,NFKBIA,NM_020529.1:945,Immune Response,,I,,Innate immune response,"NFKBI, IKBA, MAD-3, IkappaBalpha"
+NLRC5,,NLRC5,NM_032206.4:860,Immune Response,,I,,Innate immune response,"NOD27, CLR16.1, FLJ21709"
+NLRP3,,NLRP3,NM_001079821.2:415,Immune Response,,I,,Innate immune response,"C1orf7, CIAS1, AGTAVPRL, AII, AVP, FCAS, FCU, NALP3, PYPAF1, MWS, CLR1.1"
+NOD1,,NOD1,NM_006092.1:3285,Immune Response,,I,,Innate immune response,"CARD4, NLRC1, CLR7.1"
+NOD2,,NOD2,NM_022162.1:4080,Immune Response,,I,Cytokines,"Innate immune response, Cytokines and receptors","IBD1, CARD15, BLAU, CD, PSORAS1, CLR16.3, NLRC2"
+NOL7,,NOL7,NM_016167.3:335,HK,,,,,"C6orf90, PQBP3, NOP27, RARG-1, dJ223E5.2"
+NOS2A,,NOS2,NM_153292.1:546,Immune Response,,F,,Inflammatory response,"NOS, INOS, NOS2A, HEP-NOS, NOS2A"
+NOTCH1,,NOTCH1,NM_017617.3:735,Immune Response,,,Regulation,Transcriptional regulators,TAN1
+NRP1,CD304,NRP1,NM_003873.5:370,Immune Response,,,Cell Functions,"Basic cell functions, CD molecules","NRP, VEGF165R, CD304"
+NT5E,CD73,NT5E,NM_002526.2:1214,Immune Response,,,Transporter Functions,"CD molecules, Phagocytosis","NT5, CD73, eN, eNT, CALJA"
+NUBP1,,NUBP1,NM_001278506.1:304,HK,,,,,"NBP1, NBP35"
+NUP107,,NUP107,NM_020401.2:1002,Immune Response - Cell Type specific,,,Cell Cycle,"Cell Type specific, M phase of mitotic cell cycle",NUP84
+OAS3,,OAS3,NM_006187.2:4980,Immune Response - Cell Type specific,,,"Cytokines, Pathogen Defense","Cell Type specific, Cytokines and receptors, Defense response to virus",
+OSM,,OSM,NM_020530.4:580,Immune Response,,,Cell Functions,Basic cell functions,MGC20461
+PASD1,,PASD1,NM_173493.2:820,CT Antigen,,,,,CT63
+PAX5,,PAX5,NM_016734.1:2288,Immune Response,,H,,Humoral immune response,BSAP
+PBK,,PBK,NM_018492.2:1587,CT Antigen,,,,,"TOPK, FLJ14385, Nori-3, SPK, CT84"
+PDCD1,CD279,PDCD1,NM_005018.1:175,Immune Response - Cell Type specific / Checkpoint,,A;H,Regulation,"Adaptive immune response, Cell Type specific, CD molecules, Humoral immune response, Negative regulation of immune response","SLEB2, CD279, PD1, hSLE1"
+PDCD1LG2,CD273,PD-L2,NM_025239.3:235,Immune Response,,A,,"Adaptive immune response, CD molecules","PD-L2, Btdc, PDL2, bA574F11.2, CD273, B7-DC"
+PDGFC,,PDGFC,NM_016205.2:1632,Immune Response,,,Cell Functions,Basic cell functions,"SCDGF, fallotein"
+PDGFRB,CD140b,PDGFRB,NM_002609.3:840,Immune Response,,,,CD molecules,"PDGFR, JTK12, CD140b, PDGFR1"
+PECAM1,CD31,PECAM1,NM_000442.3:1365,Immune Response,,,Transporter Functions,"CD molecules, Receptors involved in phagocytosis",CD31
+PIK3CD,,PIK3CD,NM_005026.3:2978,Immune Response,,A;I,,"Adaptive immune response, Innate immune response",p110D
+PIK3CG,,PIK3CG,NM_002649.2:2125,Immune Response,,A;I,,"Adaptive immune response, Innate immune response",
+PIN1,,PIN1,NM_006221.2:434,Immune Response,,I,,Innate immune response,dod
+PLA2G1B,,PLA2,NM_000928.2:396,Immune Response,,,Regulation,Positive regulation of immune response,"PLA2, PPLA2, PLA2A"
+PLA2G6,,PLA2G6,NM_001004426.1:1954,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific","iPLA2, PNPLA9, PARK14, iPLA2beta, NBIA2"
+PLAU,,PLAU,NM_002658.2:793,Immune Response,,,Senescence,Senescence pathway,"URK, UPA"
+PLAUR,CD87,PLAUR,NM_001005376.1:440,Immune Response,,,,CD molecules,"URKR, UPAR, CD87"
+PMCH,,PMCH,NM_002674.2:172,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific",MCH
+PNMA1,,PNMA1,NM_006029.4:1565,Immune Response,,F,,Inflammatory response to antigenic stimulus,MA1
+POLR2A,,POLR2A,NM_000937.2:3775,HK,,,,,"POLR2, POLRA, RPB1"
+POU2AF1,,POU2AF1,NM_006235.2:1675,Immune Response,,H,,Humoral immune response,OBF1
+POU2F2,,POU2F2,NM_002698.2:908,Immune Response,,H,,Humoral immune response,"OTF2, 41914"
+PPARG,,PPARgamma,NM_015869.3:1035,Immune Response,,I,,Innate immune response,"PPARG1, PPARG2, NR1C3, PPARgamma"
+PPBP,,CXCL7,NM_002704.2:330,Immune Response,,,Chemokines,Chemokines and receptors,"THBGB1, SCYB7, TGB, NAP-2-L1, LA-PF4, MDGF, LDGF, Beta-TG, CTAP3, CXCL7, PBP, b-TG1, TGB1, CTAPIII, NAP-2"
+PPIA,,PPIA,NM_021130.2:925,HK,,,,,CYPA
+PRAME,,PRAME,NM_006115.3:1390,CT Antigen,,,,,"MAPE, CT130"
+PRF1,,PRF1,NM_005041.3:2120,Immune Response - Cell Type specific,Cytotoxic cells,A,"Cytotoxicity, Pathogen Defense","Adaptive immune response, Cell Type specific, Cytotoxicity, Defense response to tumor cell, Defense response to virus","PFP, P1, HPLH2"
+PRG2,,PRG2,NM_002728.4:256,Immune Response - Cell Type specific,,,Pathogen Defense,"Cell Type specific, Defense response to bacterium","MBP, BMPG"
+PRKCD,,PRKCD,NM_006254.3:2165,Immune Response,,,Senescence,Senescence initiators,
+PRKCE,,PRKCE,NM_005400.2:1695,Immune Response,,,Macrophage Functions,Macrophage activation,
+PRM1,,PRM1,NM_002761.2:319,CT Antigen,,,,,CT94.1
+PRPF38A,,PRPF38A,NM_032864.3:335,HK,,,,,"FLJ14936, Prp38"
+PSEN1,,PSEN1,NM_000021.2:900,Immune Response,,,Cell Functions,T-cell activation,"AD3, FAD, S182, PS1"
+PSEN2,,PSEN2,NM_000447.2:915,Immune Response,,,Macrophage Functions,T-cell activation,"AD4, AD3L, STM2, PS2"
+PSMB10,,PSMB10,NM_002801.2:221,Immune Response,,H,,Humoral immune response,"MECL1, LMP10, MGC1665, beta2i"
+PSMB7,,PSMB7,NM_002799.2:420,Immune Response,,,Antigen Processing,Antigen processing and presentation,Z
+PSMB8,,PSMB8,NM_004159.4:1215,Immune Response,,,Chemokines,Chemokines and receptors,"LMP7, RING10, D6S216E, PSMB5i, beta5i"
+PSMB9,,PSMB9,NM_002800.4:455,Immune Response,,A,Antigen Processing,"Adaptive immune response, Antigen processing and presentation","LMP2, RING12, beta1i, PSMB6i"
+PSMD7,,PSMD7,NM_002811.3:580,Immune Response,,,,CD molecules,"S12, P40, MOV34, Rpn8"
+PTGDR2,CD294,GPR44,NM_004778.1:1835,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific, CD molecules","GPR44, CRTH2, CD294, DP2"
+PTGS2,,PTGS2,NM_000963.1:495,Immune Response,,,Cytokines,"Acute-phase response, Cytokines and receptors",COX2
+PTPRC,CD45,CD45,NM_080921.3:258,Immune Response,CD45,,"B-Cell Functions, T-Cell Functions","B-cell proliferation, CD molecules, T-cell differentiation","CD45, LCA, T200, GP180"
+PVR,CD155,PVR,NM_006505.3:604,Immune Response,,,Regulation,"CD molecules, Regulation of immune response","PVS, CD155, HVED, Necl-5, NECL5, Tage4"
+PYCARD,,PYCARD,NM_013258.3:714,Immune Response,,I,,Innate immune response,"TMS-1, CARD5, ASC"
+RAG1,,RAG1,NM_000448.2:2300,Immune Response,,A,"B-Cell Functions, T-Cell Functions","Adaptive immune response, B-cell differentiation","RNF74, MGC43321"
+REL,,REL,NM_002908.2:225,Immune Response,,,Regulation,Transcription factors,"I-Rel, c-Rel"
+RELA,,RELA,NM_021975.2:360,Immune Response,,I,,Innate immune response,"NFKB3, p65"
+RELB,,RELB,NM_006509.2:250,Immune Response,,,Regulation,Transcription factors,REL-B
+REPS1,,REPS1,NM_001128617.2:1288,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific",
+RIPK2,,RIPK2,NM_003821.5:1695,Immune Response,,I,,Innate immune response,"RICK, RIP2, CARDIAK, CARD3"
+ROPN1,,ROPN1,NM_017578.2:195,CT Antigen,,,,,"ODF6, ropporin, ROPN1A, CT91"
+RORA,,RORA,NM_134261.2:1715,Immune Response,,,Regulation,Transcription factors,"RZRA, ROR1, ROR2, ROR3, NR1F1"
+RORC,,RORC,NM_001001523.1:1350,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific","RZRG, RORG, NR1F3, TOR"
+RPS6,,RPS6,NM_001010.2:171,Immune Response,,,Cell Functions,T-cell proliferation,S6
+RRAD,,RRAD,NM_004165.1:960,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific","REM3, RAD"
+RUNX1,,RUNX1,NM_001754.4:635,Immune Response,,,Regulation,Transcription factors,"AML1, CBFA2, PEBP2A2, AMLCR1"
+RUNX3,,RUNX3,NM_004350.1:2085,Immune Response,,,Regulation,Transcription factors,"CBFA3, AML2, PEBP2A3"
+S100A12,,S100A12,NM_005621.1:260,Immune Response,Neutrophils,I,,Innate immune response,"p6, MRP6, CGRP, CAAF1, CAGC, ENRAGE"
+S100A7,,S100A7,NM_002963.2:69,Immune Response,,I,,Innate immune response,"PSOR1, S100A7c"
+S100A8,,S100A8,NM_002964.3:115,Immune Response,,F,,Inflammatory response,"CAGA, CFAG, P8, MRP8, 60B8AG, CGLA"
+S100B,,S100B,NM_006272.1:85,Immune Response,,I,,Innate immune response,S100beta
+SAA1,,SAA1,NM_199161.1:135,Immune Response,,I,,Innate immune response,"SAA, PIG4, TP53I4"
+SAP130,,SAP130,NM_024545.3:3090,HK,,,,,FLJ12761
+SBNO2,,SBNO2,NM_014963.2:2002,Immune Response,,,Macrophage Functions,Macrophage activation,"KIAA0963, FLJ00173, Stno, Sno"
+SDHA,,SDHA,NM_004168.1:230,HK,,,,,"SDH2, FP, SDHF"
+SELE,CD62E,CD62E,NM_000450.2:1505,Immune Response,,F,Regulation,"CD molecules, Regulation of inflammatory response","ELAM1, ELAM, ESEL, CD62E"
+SELL,CD62L,CD62L,NR_029467.1:1585,Immune Response,,,Regulation,"CD molecules, Regulation of immune response","LYAM1, LNHR, LSEL, LAM1, LAM-1, hLHRc, Leu-8, Lyam-1, PLNHR, CD62L"
+SELPLG,CD162,SELPLG,NM_001206609.1:326,Immune Response,,,,CD molecules,"PSGL-1, CD162"
+SEMG1,,SEMG1,NM_003007.2:1290,CT Antigen,,,,,"SEMG, CT103"
+SERPINB2,,SERPINB2,NM_002575.1:305,Immune Response,,,Senescence,Senescence initiators interferon related,"PLANH2, PAI2, HsT1201"
+SERPING1,,SERPING1,NM_000062.2:305,Immune Response,,I,,Innate immune response,"C1NH, C1IN, C1-INH, HAE1, HAE2"
+SF3A3,,SF3A3,NM_006802.2:2060,HK,,,,,"SF3a60, SAP61, PRP9, PRPF9"
+SH2B2,,SH2B2,NM_020979.3:1567,Immune Response,,,Regulation,Regulation of immune response,APS
+SH2D1A,,SH2D1A,NM_001114937.2:495,Immune Response,T-cells,H,,Humoral immune response,"IMD5, LYP, XLP, MTCP1, DSHP, XLPD, EBVS, SAP"
+SH2D1B,,SH2D1B,NM_053282.4:545,Immune Response,,,Leukocyte Functions,Leukocyte activation,EAT2
+SIGIRR,,SIGIRR,NM_021805.2:469,Immune Response,,I,,Innate immune response,TIR8
+SIGLEC1,CD169,SIGLEC-1,NM_023068.3:5165,Immune Response,,,Transporter Functions,"CD molecules, Phagocytosis recognition and engulfment","SN, SIGLEC-1, CD169, FLJ00051, FLJ00055, FLJ00073, FLJ32150, dJ1009E24.1, sialoadhesin"
+SLAMF1,CD150,SLAM,NM_003037.2:580,Immune Response,,A,,"CD molecules, Adaptive immune response","SLAM, CD150"
+SLAMF6,CD352,SLAMF6,NM_001184714.1:1032,Immune Response,,,,CD molecules,"KALI, NTBA, KALIb, Ly108, SF2000, NTB-A, CD352"
+SLAMF7,CD319,SLAMF7,NM_021181.3:215,Immune Response,,I,,"CD molecules, Innate immune response","CRACC, 19A, CS1, CD319"
+SLC11A1,,NRAMP1,NM_000578.2:1965,Immune Response,,,Macrophage Functions,T-cell proliferation,"LSH, NRAMP, NRAMP1"
+SMAD2,,SMAD2,NM_005901.5:1678,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific","MADH2, MADR2, JV18-1"
+SMAD3,,SMAD3,NM_005902.3:4220,Immune Response,,,Regulation,Regulation of immune response,"MADH3, JV15-2, HsT17436"
+SMPD3,,SMPD3,NM_018667.3:4733,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific",NSMASE2
+SOCS1,,SOCS1,NM_003745.1:1025,Immune Response,,,"B-Cell Functions, Cell Functions, T-Cell Functions",T-cell differentiation,"SOCS-1, SSI-1, JAB, TIP3, Cish1"
+SPA17,,SPA17,NM_017425.3:175,CT Antigen,,,,,"SP17, CT22"
+SPACA3,,SPACA3,NM_173847.3:112,CT Antigen,,,,,"ALLP17, SLLP1, LYC3, LYZL3, CT54"
+SPANXB1,,SPANXB1,NM_032461.2:321,CT Antigen,,,,,CT11.2
+SPINK5,,SPINK5,NM_006846.3:2595,Immune Response,,,Regulation,Negative regulation of immune response,"VAKTI, LEKTI, LETKI, NETS, NS, FLJ21544, FLJ97536, FLJ97596, FLJ99794, DKFZp686K19184"
+SPN,CD43,SPN,NM_003123.3:2345,Immune Response,,,Regulation,"CD molecules, Regulation of immune response","LSN, CD43, GPL115"
+SPO11,,SPO11,NM_198265.1:492,CT Antigen,,,,,"CT35, SPATA43, TOPVIA"
+SPP1,,SPP1,NM_000582.2:760,Immune Response,,,Cytokines,Cytokines and receptors,"BNSP, OPN, BSPI, ETA-1"
+SSX1,,SSX1,NM_005635.2:174,CT Antigen,,,,,CT5.1
+SSX4,,SSX4,NM_005636.3:140,CT Antigen,,,,,CT5.4
+ST6GAL1,,ST6GAL1,NM_003032.2:1300,Immune Response,,H,,Humoral immune response,SIAT1
+STAT1,,STAT1,NM_007315.2:205,Immune Response,,I,"Chemokines, Regulation","Cytokines and receptors, Transcription factors, Transcriptional regulators","STAT91, ISGF-3"
+STAT2,,STAT2,NM_005419.2:1965,Immune Response,,,"Chemokines, Regulation","Cytokines and receptors, Transcription factors, Transcriptional regulators",STAT113
+STAT3,,STAT3,NM_139276.2:4535,Immune Response,,F,"Chemokines, Regulation","Cytokines and receptors, Transcription factors, Transcriptional regulators",APRF
+STAT4,,STAT4,NM_003151.2:789,Immune Response - Cell Type specific,,A,"Chemokines, Regulation, T-Cell Functions","Adaptive immune response, Cytokines and receptors, Cell Type specific, Transcription factors, Transcriptional regulators, Th1 orientation",
+STAT5B,,STAT5B,NM_012448.3:200,Immune Response,,A,"Chemokines, Regulation","Adaptive immune response, Cytokines and receptors, Transcription factors, Transcriptional regulators",
+STAT6,,STAT6,NM_003153.3:2030,Immune Response - Cell Type specific,,A,"Chemokines, Regulation, T-Cell Functions","Adaptive immune response, Cytokines and receptors, Cell Type specific, Th2 orientation, Transcription factors, Transcriptional regulators","D12S1644, IL-4-STAT"
+SYCP1,,SYCP1,NM_003176.2:230,CT Antigen,,,,,"HOM-TES-14, SCP1, CT8"
+SYK,,SYK,NM_003177.3:1685,Immune Response,,A;I,Macrophage Functions,"Macrophage activation, Adaptive immune response, Innate immune response",
+SYT17,,SYT17,NM_016524.2:1150,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific",
+TAB1,,TAB1,NM_153497.2:614,Immune Response,,I,,Innate immune response,MAP3K7IP1
+TAL1,,TAL1,NM_003189.2:4635,Immune Response,,A,Regulation,"Transcription factors, Adaptive immune response","TCL5, SCL, bHLHa17"
+TANK,,TANK,NM_004180.2:110,Immune Response,,I,,Innate immune response,"TRAF2, I-TRAF"
+TAP1,,TAP1,NM_000593.5:2075,Immune Response,,,Antigen Processing,"Adaptive immune response, Antigen processing and presentation","ABCB2, PSF1, RING4, D6S114E"
+TAP2,,TAP2,NM_000544.3:909,Immune Response,,,Antigen Processing,"Adaptive immune response, Antigen processing and presentation","ABCB3, PSF2, RING11, D6S217E"
+TAPBP,,TAPBP,NM_003190.4:1536,Immune Response,,,Antigen Processing,"Adaptive immune response, Antigen processing and presentation",TAPA
+TARP,,TCRG,NM_001003799.1:560,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific","CD3G, TCRG, TCRGC1, TCRGC2"
+TBK1,,TBK1,NM_013254.2:1610,Immune Response,,I,,Innate immune response,NAK
+TBP,,TBP,NM_001172085.1:587,HK,,,,,"GTF2D1, SCA17, TFIID"
+TBX21,,TBX21,NM_013351.1:890,Immune Response - Cell Type specific,Th1 cells,,"Regulation, T-Cell Functions","Adaptive immune response, Cell Type specific, Regulation of immune response, Th1 orientation","TBLYM, T-bet"
+TCF7,,TCF7,NM_003202.2:2420,Immune Response,,,Regulation,Transcription factors,TCF-1
+TFE3,,TFE3,NM_006521.3:2935,Immune Response,,H,,Humoral immune response,"TFEA, bHLHe33"
+TFEB,,TFEB,NM_007162.2:2026,Immune Response,,H,,Humoral immune response,"TCFEB, bHLHe35"
+TFRC,CD71,CD71,NM_003234.1:1220,Immune Response,,,,CD molecules,"CD71, TFR1, p90"
+TGFB1,,TGFB1,NM_000660.3:1260,Immune Response,,,"Interleukins, Regulation","Immunosuppression, Interleukins, Negative regulation of immune response","TGFB, DPD1, CED, TGFbeta"
+TGFB2,,TGFB2,NM_003238.2:1125,Immune Response,,,Interleukins,"Immunosuppression, Interleukins",
+THBD,CD141,THBD,NM_000361.2:1246,Immune Response,,,Leukocyte Functions,"CD molecules, Leukocyte migration",CD141
+THBS1,,THBS1,NM_003246.2:3465,Immune Response - Cell Type specific,,F,"Antigen Processing, Cell Cycle, Regulation","Cell cycle arrest, Cell Type specific, Chronic inflammatory response, Negative regulation of antigen processing","TSP1, THBS, TSP, THBS-1, TSP-1"
+THY1,CD90,THY1,NM_006288.2:135,Immune Response,,,,CD molecules,CD90
+TICAM1,,TICAM1,NM_014261.1:518,Immune Response,,I,Macrophage Functions,"Macrophage activation, Innate immune response","TRIF, TICAM-1, MGC35334, PRVTIRB"
+TICAM2,,TICAM2,NM_021649.4:3234,Immune Response,,I,,Innate immune response,"TRAM, TICAM-2, TIRP"
+TIGIT,,TIGIT,NM_173799.2:1968,Immune Response,,A,T-Cell Functions,"Adaptive immune response, T-cell activation","VSIG9, VSTM3, FLJ39873, DKFZp667A205"
+TIRAP,,TIRAP,NM_148910.2:661,Immune Response,,I,,Innate immune response,"Mal, wyatt"
+TLK2,,TLK2,NM_006852.2:2335,HK,,,,,"PKU-ALPHA, MGC44450"
+TLR1,CD281,TLR1,NM_003263.3:545,Immune Response,,I,"Microglial Functions, TLR","CD molecules, Innate immune response, Microglial cell activation, Toll-like receptor","rsc786, KIAA0012, CD281"
+TLR10,CD290,TLR10,NM_030956.2:2246,Immune Response,,I,TLR,"CD molecules, Innate immune response, Toll-like receptor",CD290
+TLR2,CD282,TLR2,NM_003264.3:180,Immune Response,,I,TLR,"CD molecules, Innate immune response, Toll-like receptor","TIL4, CD282"
+TLR3,CD283,TLR3,NM_003265.2:230,Immune Response,,I,"Microglial Functions, TLR","CD molecules, Innate immune response, Microglial cell activation, Toll-like receptor",CD283
+TLR4,CD284,TLR4,NM_138554.2:2570,Immune Response,,I,"Microglial Functions, TLR","CD molecules, Innate immune response, Microglial cell activation, Toll-like receptor","hToll, CD284, TLR-4, ARMD10"
+TLR5,,TLR5,NM_003268.3:215,Immune Response,,I,TLR,"Innate immune response, Toll-like receptor","SLEB1, TIL3, FLJ10052, MGC126430, MGC126431"
+TLR6,CD286,TLR6,NM_006068.2:2530,Immune Response,,I,TLR,"CD molecules, Innate immune response, Toll-like receptor",CD286
+TLR7,,TLR7,NM_016562.3:4120,Immune Response,,I,"Microglial Functions, TLR","Microglial cell activation, Innate immune response, Toll-like receptor",
+TLR8,CD288,TLR8,NM_016610.2:2310,Immune Response,,I,TLR,"CD molecules, Innate immune response, Toll-like receptor",CD288
+TLR9,CD289,TLR9,NM_017442.2:985,Immune Response,,I,TLR,"CD molecules, Innate immune response, Toll-like receptor",CD289
+TMEFF2,,TMEFF2,NM_016192.2:972,CT Antigen,,,,,"TENB2, HPP1, TR, TPEF, CT120.2"
+TMUB2,,TMUB2,NM_024107.2:1485,HK,,,,,MGC3123
+TNF,,TNF-alpha,NM_000594.2:1010,Immune Response,,H,"Interleukins, TNF Superfamily","Humoral immune response, Interleukins, TNF superfamily members and their receptors","TNFA, TNFSF2, DIF, TNF-alpha"
+TNFAIP3,,TNFAIP3,NM_006290.2:260,Immune Response,,I,TNF Superfamily,"Innate immune response, TNF superfamily members and their receptors","A20, OTUD7C"
+TNFRSF10B,CD262,TNFRSF10B,NM_003842.3:565,Immune Response,,,TNF Superfamily,"CD molecules, TNF superfamily members and their receptors","DR5, KILLER, TRICK2A, TRAIL-R2, TRICKB, CD262"
+TNFRSF10C,CD263,TNFRSF10C,NM_003841.3:682,Immune Response,,,TNF Superfamily,"CD molecules, TNF superfamily members and their receptors","DcR1, TRAILR3, LIT, TRID, CD263"
+TNFRSF11A,CD265,RANK,NM_003839.2:490,Immune Response,,A,TNF Superfamily,"Adaptive immune response, CD molecules, TNF superfamily members and their receptors","PDB2, LOH18CR1, RANK, CD265, FEO"
+TNFRSF11B,,TNFRSF11B,NM_002546.2:1075,Immune Response,,,TNF Superfamily,TNF superfamily members and their receptors,"OPG, OCIF, TR1"
+TNFRSF12A,CD266,TNFRSF12A,NM_016639.1:575,Immune Response,,,TNF Superfamily,"CD molecules, TNF superfamily members and their receptors","FN14, TweakR, CD266"
+TNFRSF13B,CD267,TACI,NM_012452.2:160,Immune Response,,,"Chemokines, TNF Superfamily","CD molecules, Chemokines and receptors, TNF superfamily members and their receptors","TACI, CD267"
+TNFRSF13C,CD268,TNFRSF13C,NM_052945.3:789,Immune Response,,,"Regulation, TNF Superfamily","CD molecules, Regulation of immune response, TNF superfamily members and their receptors","BAFFR, CD268"
+TNFRSF14,CD270,TNFRSF14,NM_003820.2:916,Immune Response,,,"B-Cell Functions, Regulation, T-Cell Functions, TNF Superfamily","CD molecules, T-cell regulators, TNF superfamily members and their receptors","HVEM, ATAR, TR2, LIGHTR, HVEA, CD270"
+TNFRSF17,CD269,TNFRSF17,NM_001192.2:635,Immune Response - Cell Type specific,B-cells,,"Cell Functions, TNF Superfamily","Basic cell functions, Cell Type specific, CD molecules, TNF superfamily members and their receptors","BCMA, BCM, CD269, TNFRSF13A"
+TNFRSF18,CD357,GITR,NM_004195.2:445,Immune Response,,,TNF Superfamily,TNF superfamily members and their receptors,"AITR, GITR, CD357"
+TNFRSF1A,CD120a,TNFRSF1A,NM_001065.2:515,Immune Response,,,"Chemokines, TNF Superfamily","CD molecules, Chemokines and receptors, TNF superfamily members and their receptors","TNFR1, TNF-R, TNFAR, TNFR60, TNF-R-I, CD120a, TNF-R55"
+TNFRSF1B,CD120b,TNFRSF1B,NM_001066.2:835,Immune Response,,,"Chemokines, TNF Superfamily","CD molecules, Chemokines and receptors, TNF superfamily members and their receptors","TNFR2, TNFBR, TNFR80, TNF-R75, TNF-R-II, p75, CD120b"
+TNFRSF4,CD134,OX40,NM_003327.2:200,Immune Response - Checkpoint,,,TNF Superfamily,"CD molecules, TNF superfamily members and their receptors","TXGP1L, ACT35, OX40, CD134"
+TNFRSF8,CD30,CD30,NM_152942.2:2030,Immune Response,,,TNF Superfamily,"CD molecules, TNF superfamily members and their receptors","CD30, D1S166E, KI-1"
+TNFRSF9,CD137,CD137,NM_001561.4:255,Immune Response - Checkpoint,,,TNF Superfamily,"CD molecules, TNF superfamily members and their receptors","ILA, CD137, 4-1BB"
+TNFSF10,CD253,TRAIL,NM_003810.2:115,Immune Response,,,"Cell Cycle, Cytokines, Regulation, TNF Superfamily","CD molecules, Co-Regulators of autophagy and apoptosis/cell cycle, Cytokines and receptors, TNF superfamily members and their receptors","TRAIL, Apo-2L, TL2, CD253"
+TNFSF11,CD254,RANKL,NM_003701.2:490,Immune Response,,,"TNF Superfamily, Transporter Functions","CD molecules, Phagosome processing, TNF superfamily members and their receptors","TRANCE, RANKL, OPGL, ODF, CD254"
+TNFSF12,,TWEAK,NM_003809.2:339,Immune Response,,,"Chemokines, TNF Superfamily","Chemokines and receptors, TNF superfamily members and their receptors","TWEAK, DR3LG, APO3L"
+TNFSF13,CD256,APRIL,NM_003808.3:810,Immune Response,,,"Regulation, TNF Superfamily","CD molecules, Regulation of immune response, TNF superfamily members and their receptors","APRIL, CD256"
+TNFSF13B,CD257,BAFF,NM_006573.4:1430,Immune Response,,,"Regulation, TNF Superfamily","CD molecules, Regulation of immune response, TNF superfamily members and their receptors","TNFSF20, BAFF, THANK, BLYS, TALL-1, TALL1, CD257"
+TNFSF14,CD258,LIGHT,NM_003807.3:612,Immune Response,,,"Cytokines, Regulation, T-Cell Functions, TNF Superfamily","CD molecules, Cytokines and receptors, Regulators of T-cell activation, TNF superfamily members and their receptors, T-cell regulators, T-cell proliferation","LIGHT, LTg, HVEM-L, CD258"
+TNFSF15,,VEGI,NM_001204344.1:2338,Immune Response,,,"Chemokines, TNF Superfamily","Chemokines and receptors, TNF superfamily members and their receptors","TL1, VEGI, TL1A, VEGI192A, MGC129934, MGC129935"
+TNFSF18,,TNFSF18,NM_005092.2:175,Immune Response,,,"B-Cell Functions, Cell Functions, T-Cell Functions, TNF Superfamily","T-cell proliferation, TNF superfamily members and their receptors","AITRL, TL6, hGITRL"
+TNFSF4,CD252,TNFSF4,NM_003326.2:545,Immune Response,,,"Chemokines, TNF Superfamily","CD molecules, Chemokines and receptors, TNF superfamily members and their receptors","TXGP1, OX-40L, gp34, CD252"
+TNFSF8,CD153,TNFSF8,NM_001244.3:518,Immune Response,,,"Cytokines, TNF Superfamily","CD molecules, Cytokines and receptors, TNF superfamily members and their receptors","CD30LG, CD153"
+TOLLIP,,TOLLIP,NM_019009.2:1320,Immune Response,,I,,Innate immune response,IL-1RAcPIP
+TP53,,p53,NM_000546.2:1330,Immune Response,,,T-Cell Functions,T-cell proliferation,"p53, LFS1"
+TPSAB1,,TPSAB1,NM_003294.3:579,Immune Response - Cell Type specific,Mast cells,,Cell Functions,"Basic cell functions, Cell Type specific","TPSB1, TPS1, TPS2"
+TPTE,,TPTE,NM_199259.2:142,CT Antigen,,,,,"PTEN2, CT44"
+TRAF2,,TRAF2,NM_021138.3:1325,Immune Response,,I,,Innate immune response,TRAP3
+TRAF3,,TRAF3,NM_145725.1:1795,Immune Response,,I,,Innate immune response,"CAP-1, CD40bp, CRAF1, LAP1"
+TRAF6,,TRAF6,NM_145803.1:1839,Immune Response,,I,,Innate immune response,RNF85
+TREM1,CD354,TREM1,NM_018643.3:375,Immune Response,,H,,"CD molecules, Humoral immune response","TREM-1, CD354"
+TREM2,,TREM2,NM_018965.3:611,Immune Response,,H,,Humoral immune response,"TREM-2, Trem2a, Trem2b, Trem2c"
+TRIM39,,TRIM39,NM_021253.3:3140,HK,,,,,RNF23
+TTK,,TTK,NM_003318.3:1200,CT Antigen,,,,,"MPS1, MPS1L1, CT96, MPH1"
+TUBB,,TUBB,NM_178014.2:320,HK,,,,,"OK/SW-cl.56, MGC16435, M40, Tubb5"
+TXK,,TXK,NM_003328.1:800,Immune Response,,A,,Adaptive immune response,"PTK4, TKL, PSCTK5, BTKL, RLK"
+TXNIP,,TXNIP,NM_006472.1:255,Immune Response,,I,,Innate immune response,"VDUP1, EST01027, HHCPA78, THIF"
+TYK2,,TYK2,NM_003331.3:485,Immune Response,,I,"Cytokines, Pathogen Defense, Regulation","Cytokines and receptors, Defense response to virus, Innate immune response, Positive regulation of immune response",JTK1
+UBC,,UBC,NM_021009.3:1875,Immune Response,,I,,Innate immune response,
+ULBP2,,ULBP2,NM_025217.2:905,Immune Response,,,Regulation,Regulation of immune response,RAET1H
+USP39,,USP39,NM_001256725.1:806,HK,,,,,"SAD1, CGI-21, SNRNP65"
+USP9Y,,USP9Y,NM_004654.3:85,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific",DFFRY
+VCAM1,CD106,VCAM1,NM_001078.3:2535,Immune Response,,,"Adhesion, Regulation","Adhesion, CD molecules, Regulation of immune response",CD106
+VEGFA,,VEGF,NM_001025366.1:1325,Immune Response,,,"Cytokines, Leukocyte Functions","Leukocyte migration, Cytokines and receptors","VEGF, VEGF-A, VPF"
+VEGFC,,VEGFC,NM_005429.2:565,Immune Response,,,,Response to drug,VRP
+XCL2,,XCL2,NM_003175.3:377,Immune Response,NK cells,,Chemokines,Chemokines and receptors,"SCYC2, SCM-1b"
+XCR1,,XCR1,NM_005283.2:700,Immune Response,,F,Chemokines,"Chemokines and receptors, Inflammatory response","GPR5, CCXCR1"
+YTHDF2,,NY-REN-2,NM_001172828.1:275,Immune Response,,H,,Humoral immune response,"HGRG8, NY-REN-2"
+ZAP70,,ZAP-70,NM_001079.3:1175,Immune Response,,A,,Adaptive immune response,"SRK, ZAP-70, STD"
+ZC3H14,,ZC3H14,NM_001160103.1:2690,HK,,,,,"FLJ11806, UKp68, NY-REN-37"
+ZKSCAN5,,ZKSCAN5,NM_014569.3:3688,HK,,,,,"ZFP95, ZNF914, ZSCAN37"
+ZNF143,,ZNF143,NM_003442.5:925,HK,,,,,"SBF, pHZ-1, STAF"
+ZNF205,,ZNF205,NM_001031686.1:573,Immune Response - Cell Type specific,,,Cell Functions,"Basic cell functions, Cell Type specific","ZNF210, Zfp13"
+ZNF346,,ZNF346,NM_012279.2:2260,HK,,,,,"JAZ, Zfp346"
